@@ -9,7 +9,7 @@ Along with scores rating a country's capacity in different technical areas, the 
 
 To learn more about WHO's Joint External Evaluations (JEE), visit their website: http://www.who.int/ihr/procedures/mission-reports/en/
 
-Here, we develop an open-source tool to analyze priority actions and identify topics among recommendations across countries. We analyze the priority actions from the 57 reports.
+Here, we develop an open-source tool to analyze priority actions and identify topics among recommendations across countries. We analyze the priority actions from the 58 reports.
 
 This analysis will support technical experts and international donors in identifying high impact activities that can be undertaken or funded to effectively strengthen the capacity of nations to prevent, detect and respond to health emergencies.
 
