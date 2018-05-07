@@ -1,4 +1,4 @@
-# JEE Recommendations for Priority Action LDA Topic Modeling 
+# WHO JEE Recommendations for Priority Action LDA Topic Modeling 
 
 In 2005, members of the World Health Organisation (WHO) adopted the International Health Regulations
 (IHR 2005), which requires states to develop certain minimum core public health capacities. The Joint
