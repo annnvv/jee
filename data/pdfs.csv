@@ -1,0 +1,589 @@
+﻿ta_abbr,tech_area,iso3,country,priority
+p1,"National legislation, Policy and Financing",TZA,Tanzania,"Operationalize Tanzania’s One Health approach in consensus with public health, animal health, wildlife,
+security and other relevant sectors."
+p1,"National legislation, Policy and Financing",TZA,Tanzania,"Share roles and responsibilities of the IHR Technical Working Group and replicate it at subnational
+levels."
+p1,"National legislation, Policy and Financing",TZA,Tanzania,"Review supply chain management because it is one of the key mechanisms enabling the government
+to implement policy."
+p2,"IHR Coordination, Communication and Advocacy",TZA,Tanzania,"Review multisectoral, multidisciplinary coordination and communication mechanisms during the current
+outbreak for effectiveness and action."
+p2,"IHR Coordination, Communication and Advocacy",TZA,Tanzania,"Seek approval from stakeholders for the terms of reference of the Technical Working Group for
+finalization."
+p2,"IHR Coordination, Communication and Advocacy",TZA,Tanzania,Replicate Technical Working Group functions at the subnational level.
+p3,Antimicrobial Resistance,TZA,Tanzania,"Increase political engagement, awareness within the health system and actions as antimicrobial
+resistance is a major threat to human health in Tanzania."
+p3,Antimicrobial Resistance,TZA,Tanzania,"Develop a national action plan to address antimicrobial resistance. This should align with the Global
+Action Plan on Antimicrobial Resistance, incorporating action by all relevant sectors, particularly from
+health, veterinary and agriculture sectors. The first step would be for the Government to nominate a
+national task force and convene a multisectoral group with high-level leadership. The Global Antibiotic
+Resistance Partnership (GARP) situation analysis will provide an excellent starting point."
+p3,Antimicrobial Resistance,TZA,Tanzania,Improve systems for surveillance and data collection to inform policy and clinical decisions.
+p3,Antimicrobial Resistance,TZA,Tanzania,"Strengthen laboratory capacity through the involvement in WHO/National Institute for Communicable
+Diseases (NICD) external quality Assessment (EQA) programme. As a part of the action plan there
+should be a strategy for surveillance, and identifying those laboratories best placed to systematically
+collect and analyse data. This should build on existing capacity and interest, and include public and
+academic institutions."
+p4,Zoonotic Disease,TZA,Tanzania,"Expedite the operationalization of the One Health Strategic Plan by setting up a physical office, staffing
+the One Health Coordination Unit (OHCU), appoint the One Health Steering Committee and technical
+working groups, and ensure that regulations are in place to allow operations."
+p4,Zoonotic Disease,TZA,Tanzania,"Strengthen veterinary/animal workforce through training and recruitment of more veterinary officers
+and paraprofessionals with at least one veterinary officer per district."
+p4,Zoonotic Disease,TZA,Tanzania,"Urgently establish, through legislation or memorandum of understanding, a formal mechanism for
+information sharing between animal and human health sectors and linkages between laboratories to
+leverage on available expertise and diagnostic capacities. Linkages should take into account existing
+governance structures across all levels (national to subnational)."
+p4,Zoonotic Disease,TZA,Tanzania,"Reporting for zoonotic diseases needs to be improved by empowering local communities on how to
+recognize diseases using simple tools/aids, retraining of field staff, transitioning the reporting systems
+from paper-based reporting to digital platforms that are user friendly."
+p4,Zoonotic Disease,TZA,Tanzania,"Existing legislations/regulations for both animal and wildlife sectors need to be improved to reflect the
+One Health approach."
+p5,Food Safety,TZA,Tanzania,"Develop a national food safety strategy and plan of action with inputs from all stakeholders to ensure
+more widespread adoption of the One Health approach."
+p5,Food Safety,TZA,Tanzania,"Establish a formal integrated, trans-disciplinary, cross-sectoral and interdepartmental collaboration
+among all food control players."
+p5,Food Safety,TZA,Tanzania,"Update the food-borne disease surveillance system by integrating early warning and rapid alert
+capabilities and introducing the new system throughout the country."
+p6,Biosafety and Biosecurity,TZA,Tanzania,"Improve sustainable laboratory capacity in districts and regions; including guidance, SOPs, reagents,
+equipment, personnel and biosafety and biosecurity training."
+p6,Biosafety and Biosecurity,TZA,Tanzania,"Allow registration of personnel with relevant training so that they can work in specific areas of medical
+laboratories."
+p6,Biosafety and Biosecurity,TZA,Tanzania,"Map out current capacity for biosecurity (including sample storage, documents, guidance and required
+legislation) and incorporate these into formal and in-service training."
+p7,Immunization,TZA,Tanzania,Intensify surveillance in high-risk districts for both measles and polio.
+p7,Immunization,TZA,Tanzania,"Strengthen adverse events following immunization (AEFI) monitoring system both in capacity and
+coverage including establishing a national committee."
+p7,Immunization,TZA,Tanzania,"Implement local strategies to have sufficient immunization staff available to reduce waiting for
+caretakers."
+d1,National Laboratory System,TZA,Tanzania,"Establish formal linkages and formalize information sharing between human and animal health
+laboratories routinely and periodically to improve linkages between both sectors."
+d1,National Laboratory System,TZA,Tanzania,Link laboratory and epidemiology data from both human and animal health sectors.
+d1,National Laboratory System,TZA,Tanzania,"Improve the timeliness of sample transport, including strengthening the capacity of laboratories in the
+regions and exploring additional collaboration with private transport companies provided biosecurity
+and biosafety concerns are appropriately addressed."
+d1,National Laboratory System,TZA,Tanzania,Train and re-train zonal/regional and district level health workers.
+d2,Real Time Surveillance,TZA,Tanzania,"Disseminate WHO standard IDSR guidelines and training materials, especially to the district levels and
+new established regions."
+d2,Real Time Surveillance,TZA,Tanzania,"Establish rapid IDSR assessments/evaluation, including a capacity and training needs assessment,
+followed by the development of strategic and annual operational plans for IDSR."
+d2,Real Time Surveillance,TZA,Tanzania,"Establish and sustain robust early warning systems (E-WARNS) and early detection systems (E-DS) for
+public health emergencies (known and unknown) that should include: (i) robust weekly surveillance
+system backed by robust outbreak investigation and response capacity as well as periodic performance
+measurement and feedback; and (ii) event-based surveillance as an early warning system for prompt
+rumour/signal/event tracing, verification, notification and response."
+d3,Reporting,TZA,Tanzania,"Establish and sustain formal mechanisms for exchange of information between national IHR and OIE
+focal points to ensure that public health and animal health systems work harmoniously to limit each
+reporting separately and to improve joint decision-making through disaster management committees
+(multisectoral) cascading from the central level to the regions, districts, divisions, wards and villages,
+and coordinated under the Prime Minister’s Office."
+d3,Reporting,TZA,Tanzania,"Fast track policies to facilitate the national IHR focal point core and expanded functions and strengthen
+core capacities that have not yet been implemented as they are placed within individual sectors which
+does not help the national IHR focal point persons in their expanded function."
+d3,Reporting,TZA,Tanzania,"Finalize all existing draft protocols and institutionalize networking between human and animal health
+and use information technology to enhance communication between national IHR and OIE focal point
+persons (public health, animal health and wildlife, security agencies)."
+d3,Reporting,TZA,Tanzania,"Improve information sharing between and among sectors, including security agencies and the private
+sector. In addition, facilitate joint national action planning, implementation, monitoring and evaluation/
+reviews."
+d4,Workforce Development,TZA,Tanzania,"Collaborate with training institutions to review the pre-service training curricular to ensure that IHR
+(2005), IDSR and disaster management are addressed."
+d4,Workforce Development,TZA,Tanzania,"Proactively enroll professionals from animal health in field epidemiology and laboratory training
+programmes (FELTPs) to build technical leadership and managerial skills for national and subnational
+surveillance and prepare health leaders (basic, intermediate and advanced FELTP courses) in animal
+health."
+d4,Workforce Development,TZA,Tanzania,"Support exchange visits to established centres for mentoring of critical staff from human and animal
+health."
+r1,Preparedness,TZA,Tanzania,"Establish regulations and an effective agency structure to operationalize the Disaster Management
+Act, 2014."
+r1,Preparedness,TZA,Tanzania,"Review the draft Public Health Emergency Preparedness and Response Plan by examining it in
+relation to the national One Health Strategic Plan, and subsequently endorse, distribute to operational
+subnational units and test via simulation exercises."
+r1,Preparedness,TZA,Tanzania,"Ensure that senior officials recognize the importance of updating national health risk and resource
+mapping needs and approve allocation of the resources required."
+r1,Preparedness,TZA,Tanzania,"Conduct a national health risk and resource mapping exercise in coordination with animal health
+authorities, and request other government sectors such as the US National Weather Service to
+contribute relevant data and guidance."
+r2,Emergency Response Operations,TZA,Tanzania,"Ensure high-level leadership from the MoHCDGEC (Chief Medical Officer and Permanent Secretary)
+to provide official directives and recognition regarding the existence and utility of the PHEOC, and
+enumerating its roles and responsibilities to support engagement of all those required to jointly manage
+the health consequences of all emergencies."
+r2,Emergency Response Operations,TZA,Tanzania,"Ensure that the MoHCDGEC provides a budget line for the PHEOC and facilitates official availability
+of fully dedicated EOC focal persons from the various health clusters, particularly during emergencies."
+r2,Emergency Response Operations,TZA,Tanzania,Increase staff at the PHEOC and provide employees with the required training.
+r2,Emergency Response Operations,TZA,Tanzania,Obtain the required technical equipment and physical space.
+r2,Emergency Response Operations,TZA,Tanzania,Establish a comprehensive health emergency programme at the policy level.
+r3,Linking Public Health and Security Authorities,TZA,Tanzania,Develop a joint training programme and curriculum.
+r3,Linking Public Health and Security Authorities,TZA,Tanzania,Establish a mechanism for sharing information on a regular basis.
+r3,Linking Public Health and Security Authorities,TZA,Tanzania,Explicitly define and share roles of law enforcement in the cycle of public health emergencies.
+r4,Medical Countermeasures and Personnel Deployment,TZA,Tanzania,"Develop SOPs and protocols for medical countermeasures and personnel deployment. Protocols
+should include criteria for sending and receiving medical countermeasures, as well as personnel and
+procedures for fast track importation of medical countermeasures, including procedures for potential
+tax exemption for medical countermeasures in emergency situations. Agreements with neighbouring
+countries and regional organizations should be formalized to ensure mutual cross-border aid (personnel
+and medical countermeasures)."
+r4,Medical Countermeasures and Personnel Deployment,TZA,Tanzania,"Estimates (including a forecasting tool) on the type, quantity and costs of medical countermeasures
+needed for priority scenarios should be developed. These figures could be used as the basis for further
+planning."
+r4,Medical Countermeasures and Personnel Deployment,TZA,Tanzania,"The draft All Hazard Health Emergency Preparedness and Response Plan should be finalized to allow
+implementation of the described procedures for medical countermeasures and personnel deployment."
+r5,Risk Communication,TZA,Tanzania,"Strengthen capacity for risk communication, both at national and subnational levels, and in particular
+for the PHEOC."
+r5,Risk Communication,TZA,Tanzania,"Set up tailored training specific to the target groups (staff at national level, messengers at local level)"
+r5,Risk Communication,TZA,Tanzania,"Develop strategies for more pro-active risk communication by considering public–private partnership models with the media (mobile phone providers, radio, television, newspapers, social media providers)."
+r5,Risk Communication,TZA,Tanzania,"Finalize the draft All Hazard Health Emergency Preparedness and Response Plan to allow implementation
+of the described measures for risk communication and social mobilization."
+poe,Points of Entry,TZA,Tanzania,Finalize and operationalize public health emergency contingency plans for points of entry.
+poe,Points of Entry,TZA,Tanzania,"Evaluate the effectiveness of points of entry in responding to public health events at points of entry
+through simulation exercises."
+poe,Points of Entry,TZA,Tanzania,"Facilitate necessary SOPs, guidelines, equipment and kits for facilitating routine work at points of entry."
+poe,Points of Entry,TZA,Tanzania,"Ensure proper workforce protection including provision of free vaccines, equipment and training."
+ce,Chemical Emergencies,TZA,Tanzania,"Conduct a survey and list persistent organic pollutants to enable updation of the 2003 legal framework
+on industrial chemicals."
+ce,Chemical Emergencies,TZA,Tanzania,Establish an electronic inventory of major hazard sites and installations.
+ce,Chemical Emergencies,TZA,Tanzania,"Implement the roadmap and programme for chemical accident prevention and preparedness, including
+reporting."
+re,Radiation Emergencies,TZA,Tanzania,Finalize the draft National Nuclear and Radiological Emergency Response Plan (NNRERP).
+re,Radiation Emergencies,TZA,Tanzania,"Conduct national radiation risk mapping, and install radiation-monitoring devices in strategic places,
+including at the designated points of entry."
+re,Radiation Emergencies,TZA,Tanzania,Finalize SOPs and action guides for responders to radiation emergency.
+p1,"National legislation, Policy and Financing",TUN,Tunisia,"Establish a committee of legal advisors representing the different sectors relevant to IHR, tasked to
+continue to review national legislation, decrees, policies and administrative produces to identify gaps
+and corrective measures to accelerate the implementation of IHR."
+p1,"National legislation, Policy and Financing",TUN,Tunisia,"Accelerate the finalization and endorsement of the reviewed laws such as on food safety, biosafety and
+biosecurity, chemical safety, and the establishment of an independent body on radiation."
+p2,"IHR Coordination, Communication and Advocacy",TUN,Tunisia,"Evaluate the functioning of the national IHR multisectoral commission and use outcomes to develop
+an adequate mechanism to ensure its regular operation: widely disseminate the 2014–4776 Decree
+to all stakeholders; and conduct regular meetings and develop an annual progress report on IHR
+implementation."
+p2,"IHR Coordination, Communication and Advocacy",TUN,Tunisia,"Organize a high-level meeting to brief senior officers from key stakeholders about current JEE
+conclusions and call for their stronger active participation in the development of the plan of action."
+p2,"IHR Coordination, Communication and Advocacy",TUN,Tunisia,"Develop a mechanism for regular information sharing between the IHR NFP and other sectors as well
+as within each of these sectors."
+p3,Antimicrobial Resistance,TUN,Tunisia,"Establish a regulatory framework and comprehensive national strategic plan for AMR prevention and
+control including HCAI."
+p3,Antimicrobial Resistance,TUN,Tunisia,"Identify national priority AMR pathogens from available data in human and animal health laboratories
+and map their distribution."
+p3,Antimicrobial Resistance,TUN,Tunisia,"Designate and build animal and human public health laboratory capacity to detect and characterize
+both global and national priority AMR pathogens."
+p3,Antimicrobial Resistance,TUN,Tunisia,"Designate AMR sentinel surveillance sites for priority AMR pathogens across the country with clearly
+defined reporting and feedback mechanisms, and an information sharing platform within and across
+animal, human, food, environmental and other relevant sectors; to achieve this, strengthen intersectoral
+coordination and collaboration, and engage the private sector in both animal and human health."
+p3,Antimicrobial Resistance,TUN,Tunisia,"Strengthen HCAI prevention and control programmes with clear policies, guidelines and procedures,
+regular training, and systematic monitoring and evaluation of infection prevention and control practices
+and nosocomial infections."
+p3,Antimicrobial Resistance,TUN,Tunisia,"Designate health facilities to promote antimicrobial stewardship practices through training and
+education, treatment algorithm development, monitoring and evaluation of rational drug use, and so
+on."
+p4,Zoonotic Disease,TUN,Tunisia,Review the mandate and workplans for the national and regional zoonoses committees.
+p4,Zoonotic Disease,TUN,Tunisia,"Enhance coordination between the human and animal health sectors, including the private sector."
+p4,Zoonotic Disease,TUN,Tunisia,"Develop manuals for zoonotic diseases, especially for leishmaniasis and bovine tuberculosis."
+p4,Zoonotic Disease,TUN,Tunisia,Enhance the analytical capacity at the regional level (other than rabies which remains centralized).
+p4,Zoonotic Disease,TUN,Tunisia,"Identify and enhance laboratory capacity at national level to act as a reference laboratory, with
+certification and accreditation of priority methods and laboratories."
+p5,Food Safety,TUN,Tunisia,"Build and strengthen the analytical capacity for food analysis (especially for viruses, Campylobacter
+spp., Escherichia coli and other specified pathogens and toxins). Testing methods and laboratories
+need to be certified and accredited."
+p5,Food Safety,TUN,Tunisia,"Organize specific communication programmes, training and/or education campaigns for consumers."
+p5,Food Safety,TUN,Tunisia,"Organize targeted training on risk-based systems (e.g. Hazard Analysis of Critical Control Points) for the
+food and water sector and business operators."
+p5,Food Safety,TUN,Tunisia,"Review and harmonize the existing food laws as well as the regulatory and institutional framework.
+Enhance cooperation between the various administrative bodies and stakeholders and consider the
+simplification of the administrative structure."
+p6,Biosafety and Biosecurity,TUN,Tunisia,Finalize the law on biosecurity.
+p6,Biosafety and Biosecurity,TUN,Tunisia,"Create a national strategy and plan for biosecurity and biosafety. In addition to laboratories and
+health care of humans and animals, this plan should include roles and tasks of public security and
+environmental authorities."
+p6,Biosafety and Biosecurity,TUN,Tunisia,"Engage the laboratory network in practical planning and implementation aiming for advanced biosafety
+and biosecurity at operational level, e.g. guidelines for adaptation of international quality standards,
+exercise audits, education, mapping laboratories with dangerous pathogens and toxins."
+p6,Biosafety and Biosecurity,TUN,Tunisia,Consider the establishment of a biosafety level 3 (BSL 3) laboratory.
+p7,Immunization,TUN,Tunisia,"Conduct a cold chain inventory; develop a practical renewal strategy; and strengthen the use of
+the WHO Effective Vaccine Stock Management tool in all regions to sustain vaccine management
+performance achievements."
+p7,Immunization,TUN,Tunisia,"Develop a new multi-year action plan in line with the global and regional vaccine action plans and
+country priorities to secure programme achievements, sustainability, and address current and future
+priorities including new vaccine introduction."
+p7,Immunization,TUN,Tunisia,"Update the national strategy to address:
+m low coverage areas and population groups: focus on stronger monitoring and data use for action,
+microplanning (Reaching Every Community Approach) and increasing population demand;
+m electronic data reporting and analysis system gaps;
+m VPD surveillance gaps, particularly in high-risk areas"
+d1,National Laboratory System,TUN,Tunisia,"Secure resources for, and upgrade existing primary laboratories in clinical and veterinary practice to
+perform qualified and reliable diagnostics (reagents, equipment, education, biosafety)."
+d1,National Laboratory System,TUN,Tunisia,Designate official reference laboratories.
+d1,National Laboratory System,TUN,Tunisia,"Formalize and issue a mandate for a cooperative laboratory network (suggested tasks include
+diagnostic algorithms, quality assurance issues, co-audits, sharing new techniques, methodological
+standardization (e.g. the European Committee on Antimicrobial Susceptibility Testing); and ensure
+linkage of this laboratory initiative to clinicians and epidemiologists."
+d2,Real Time Surveillance,TUN,Tunisia,"Finalize and launch the electronic real-time reporting system of notifiable, including zoonotic, diseases."
+d2,Real Time Surveillance,TUN,Tunisia,Complete the functioning and coverage of EBS nationwide involving broader non-health sectors.
+d2,Real Time Surveillance,TUN,Tunisia,"Address the completeness and timeliness of disease notification, including expanded coverage of IBS
+from the private sector and nongovernmental organizations."
+d2,Real Time Surveillance,TUN,Tunisia,"Reinforce capacity for data analysis, risk assessment and reporting, particularly at sub-national level."
+d2,Real Time Surveillance,TUN,Tunisia,"Develop an overarching strategy for communicable disease surveillance to enhance coordination and
+collaboration between all stakeholders within and between sectors, in particular to clarify roles and
+responsibilities between ONMNE and DSSB."
+d3,Reporting,TUN,Tunisia,"Review existing terms of reference for the IHR NFP and IHR multisectoral committee and ensure they
+address notification and information sharing."
+d3,Reporting,TUN,Tunisia,"Develop SOPs on information sharing related to potential public health emergencies of international
+concern (PHEIC) between IHR NFP and focal points for other international organizations."
+d3,Reporting,TUN,Tunisia,Establish an electronic platform to facilitate information sharing between national focal points.
+d3,Reporting,TUN,Tunisia,"Organize training to raise awareness of the national focal points on the identification of potential
+PHEIC using the Annex 2 of IHR."
+d4,Workforce Development,TUN,Tunisia,"Conduct a situation analysis of available multidisciplinary human resources at the three administrative
+levels and take necessary actions to secure adequate and homogenous coverage of the country, in
+particular in high-risk areas"
+d4,Workforce Development,TUN,Tunisia,"Build on the various training initiatives and opportunities currently in place to develop a national
+strategy for capacity-building in field epidemiology that considers country priorities in public health,
+veterinary health and IHR implementation; and is also accessible to non-MoH sectors."
+d4,Workforce Development,TUN,Tunisia,"Accelerate the ongoing process for implementation of a national FETP course in collaboration with
+EMPHNET, and open the training to all involved officials (public health, agriculture, etc.) and private
+physicians and veterinarians as needed."
+d4,Workforce Development,TUN,Tunisia,"Evaluate implementation of the public health-care workforce strategy, and establish a mechanism to
+ensure that it is regularly monitored and updated to suit the evolving country, regional and global
+context as well as country needs and priorities in IHR."
+r1,Preparedness,TUN,Tunisia,Review and update the national risk assessment in collaboration with the different stakeholders.
+r1,Preparedness,TUN,Tunisia,"Map national resources for IHR-related hazards and priority risks and develop a plan for management
+and distribution of the national stockpile of countermeasures"
+r1,Preparedness,TUN,Tunisia,"Incorporate all IHR-related hazards in the national public health emergency preparedness and response
+plan."
+r1,Preparedness,TUN,Tunisia,Ensure availability of surge capacity to respond to a PHEIC.
+r2,Emergency Response Operations,TUN,Tunisia,"Build the capacities of SHOC room staff on public health emergency management, and increase the
+number of the staff available for better management of such events."
+r2,Emergency Response Operations,TUN,Tunisia,"Prepare terms of reference and SOPs describing the structural and operational elements of the incident
+management structure and different functions of the SHOC."
+r2,Emergency Response Operations,TUN,Tunisia,Develop case management guidelines for different IHR-related hazards.
+r2,Emergency Response Operations,TUN,Tunisia,Prepare SOPs for patient referral and transportation for each IHR-related hazard.
+r3,Linking Public Health and Security Authorities,TUN,Tunisia,"Ensure the involvement of the security sectors in training conducted by the public health sector (and
+vice versa) on emerging and remerging public health events."
+r3,Linking Public Health and Security Authorities,TUN,Tunisia,Develop SOPs for the joint investigation and response to public health events.
+r4,Medical Countermeasures and Personnel Deployment,TUN,Tunisia,"Develop a national plan and procedures for sending and receiving medical countermeasures during
+public health emergencies."
+r4,Medical Countermeasures and Personnel Deployment,TUN,Tunisia,"Establish agreements with manufacturers or distributors to procure medical countermeasures during a
+public health emergency."
+r4,Medical Countermeasures and Personnel Deployment,TUN,Tunisia,"Establish formal agreements with other countries and international organizations that outline criteria
+and procedures for sending and receiving medical countermeasures."
+r5,Risk Communication,TUN,Tunisia,Operationalize the national risk communication strategy across MOH and other response partners.
+r5,Risk Communication,TUN,Tunisia,"Conduct regular information sharing sessions with media to provide background updates on local
+public health threats"
+r5,Risk Communication,TUN,Tunisia,Develop SOPs for coordination mechanism between sectors and partners
+r5,Risk Communication,TUN,Tunisia,Conduct regular community outreach activities to establish trusted relationships prior to emergencies
+poe,Points of Entry,TUN,Tunisia,Enhance coordination between the border health control units and the relevant stakeholders at PoE.
+poe,Points of Entry,TUN,Tunisia,"Establish sustainable communication channels between the DSSB and the Directorate of Sanitation
+and Environmental Protection regarding activities carried out at PoE."
+poe,Points of Entry,TUN,Tunisia,"Develop a public health emergency contingency plan to be integrated within the emergency plan of
+each designated PoE, and SOPs for the early detection, investigation and response to ill passengers
+at PoE."
+poe,Points of Entry,TUN,Tunisia,"Organize training for public health staff, matching their needs to the borders context."
+ce,Chemical Emergencies,TUN,Tunisia,"Establish a legally constituted National Inter-ministerial Commission on Chemical Events, with a
+budgeted programme of work."
+ce,Chemical Emergencies,TUN,Tunisia,"Activate the Management Centre for Hazardous Waste with revised regulations and operating
+procedures."
+ce,Chemical Emergencies,TUN,Tunisia,Ratify the ILO international conventions 170 and 174.
+ce,Chemical Emergencies,TUN,Tunisia,"Reinforce the laboratory capacity of the Tunis Poisons Centre and the ISST to become reference
+laboratories for follow-up and toxicovigilance."
+ce,Chemical Emergencies,TUN,Tunisia,Accelerate implementation of the GHS in all sectors.
+re,Radiation Emergencies,TUN,Tunisia,"Revise, update and set the basis for an agreement between the different stakeholders for the creation
+of a Radiation Emergency Response Plan."
+re,Radiation Emergencies,TUN,Tunisia,"Develop SOPs for stakeholders involved in the PNURN, especially for first responders (blue lights)."
+re,Radiation Emergencies,TUN,Tunisia,"Review legislation related to first responder responsibilities such as fire and rescue in order to ensure
+the necessary training, which should be traceable for all staff involved in the emergency response plan."
+re,Radiation Emergencies,TUN,Tunisia,"Develop competencies in atmospheric dispersion calculation for people’s dosimetry and food bank
+estimates; as well as in internal dosimetry for emergency scenarios and retrospective dosimetry."
+p1,"National legislation, Policy and Financing",LBR,Liberia,"Revise the 1976 Public Health Law to incorporate the IHR requirements to enable enforcement of the
+Public Health Law and other IHR-related legal instruments."
+p1,"National legislation, Policy and Financing",LBR,Liberia,Build capacity for IHR (2005) core competencies and enhance intersectoral collaboration.
+p1,"National legislation, Policy and Financing",LBR,Liberia,"Raise awareness among all relevant stakeholders about their roles and responsibilities related to the
+IHR (2005)."
+p1,"National legislation, Policy and Financing",LBR,Liberia,Create a budget line and allocate financial resources to support implementation.
+p2,"IHR Coordination, Communication and Advocacy",LBR,Liberia,"Strengthen and sustain a multisectoral and multidisciplinary coordination and communication
+mechanism with animal health, wildlife, environment and other relevant sectors, including establishing
+memoranda of understanding (MoU) for joint actions and training with relevant stakeholders, such as
+Joint External Evaluation 8
+PREVENT
+security agencies and the Ministry of National Defence. In addition establish a focal point for veterinary
+public health within the Ministry of Health to drive the One Health efforts."
+p2,"IHR Coordination, Communication and Advocacy",LBR,Liberia,"Revise the terms of reference (TOR) for the national IHR centre within the Ministry of Health and
+Ministry of Agriculture to make them more responsive and accountable to all relevant sectors."
+p2,"IHR Coordination, Communication and Advocacy",LBR,Liberia,"Increase advocacy, awareness-raising among the local population on the importance of IHR, promote
+multidisciplinary and multi-stakeholder participation in the context of the One Health approach and
+ensure that the IHR centres have the necessary capacity and logistics (office, transport, information
+and communication) to make them more functional."
+p2,"IHR Coordination, Communication and Advocacy",LBR,Liberia,"Strengthen cross-border coordination, communication and advocacy with all neighbouring countries
+and other countries in the western African region."
+p2,"IHR Coordination, Communication and Advocacy",LBR,Liberia,"Establish a single information platform and regularly produce and disseminate information products
+(dashboards, bulletins, daily alert, weekly/monthly/quarterly/annual updates) and share them promptly
+with all stakeholders."
+p2,"IHR Coordination, Communication and Advocacy",LBR,Liberia,"Conduct annual IHR review meetings and facilitate a regional review. In addition, conduct quarterly
+multisectoral meetings in each county."
+p3,Antimicrobial Resistance,LBR,Liberia,"Establish a national committee to address the Global Action Plan on AMR, involving the different
+sectors (human, animal, agriculture, environment, scientific and research community, public and civil
+society) to develop the Liberian national action plan on AMR using a One Health approach."
+p3,Antimicrobial Resistance,LBR,Liberia,"Develop a national AMR surveillance system based on the existing laboratory capacity in health-care
+settings and hospitals supported by a national reference laboratory and a national surveillance system
+in the animal and agriculture sectors."
+p3,Antimicrobial Resistance,LBR,Liberia,"Strengthen implementation of HCAI prevention and control programme in health-care settings,
+including surveillance of HCAI and the core components of the HCAI programmes."
+p3,Antimicrobial Resistance,LBR,Liberia,Formulate clear policies and guidelines for antimicrobial stewardship.
+p4,Zoonotic Disease,LBR,Liberia,Identify priority zoonotic diseases of domestic animals and wildlife in the community.
+p4,Zoonotic Disease,LBR,Liberia,"Educate and raise awareness in communities about zoonotic disease control, good animal husbandry
+practices and animal welfare."
+p4,Zoonotic Disease,LBR,Liberia,"Prioritize resources in order to ensure the reduction of potential spill over of zoonotic diseases into the
+human population."
+p4,Zoonotic Disease,LBR,Liberia,Enhance veterinary services and increase research into livestock diseases.
+p4,Zoonotic Disease,LBR,Liberia,Develop the initial and continuous training of veterinary personnel.
+p4,Zoonotic Disease,LBR,Liberia,Finalize draft legislation: agriculture law and proposed animal disease law.
+p4,Zoonotic Disease,LBR,Liberia,"Develop a multisectoral approach to zoonotic diseases at the national, county and local levels."
+p5,Food Safety,LBR,Liberia,Establish a comprehensive foodborne disease surveillance system.
+p5,Food Safety,LBR,Liberia,"Build and sustain the capacity in human resource, logistics, infrastructure and technical support at all
+levels, including laboratories, to promote the enforcement of the 1976 Public Health Law."
+p5,Food Safety,LBR,Liberia,"Strengthen intersectoral collaboration according to institutional mandates to implement the 1976
+Public Health Law."
+p6,Biosafety and Biosecurity,LBR,Liberia,"Develop and implement a comprehensive national policy on biosafety and biosecurity that includes all
+relevant sectors."
+p6,Biosafety and Biosecurity,LBR,Liberia,"Establish linkages between the human, animal and environmental health sectors to address biosafety/
+biosecurity concerns in line with the One Health approach, build capacity and implement strategic
+action."
+p7,Immunization,LBR,Liberia,"Conduct data quality improvement to address issues such as over-reporting, incomplete reporting and
+use of correct denominators to determine immunization coverage."
+p7,Immunization,LBR,Liberia,"Improve access to immunization, especially in geographically isolated areas, and improve equity
+between rural and urban areas."
+p7,Immunization,LBR,Liberia,Ensure the maintenance and/or replacement of ageing cold chain equipment at health facilities.
+d1,National Laboratory System,LBR,Liberia,Update the National Laboratory Policy and finalize the strategic plan.
+d1,National Laboratory System,LBR,Liberia,Expand testing capacity for IDSR priority diseases.
+d1,National Laboratory System,LBR,Liberia,Improve laboratory data management and reporting – laboratory information system development.
+d1,National Laboratory System,LBR,Liberia,Build human resource capacity in the laboratory system.
+d1,National Laboratory System,LBR,Liberia,"Strengthen the laboratory system at all levels - public health and clinical:
+a. Based on the Essential Package of Health Services;
+b. Supply chain for laboratory commodities and equipment;
+c. Enhance and expand laboratory infrastructure;
+d. Develop a quality management system, including external quality assurance and biosafety/biosecurity."
+d1,National Laboratory System,LBR,Liberia,Pursue accreditation of laboratories.
+d2,Real Time Surveillance,LBR,Liberia,"Build technical capacity for surveillance, including continuing training in IDSR, IHR (2005), data
+management, clinicians’ role in IDSR and use of innovative technology in IDSR."
+d2,Real Time Surveillance,LBR,Liberia,"Develop electronic web-based reporting platforms with harmonization, integration and interoperability
+of public health and animal health data sources and platforms."
+d2,Real Time Surveillance,LBR,Liberia,"Develop a comprehensive animal health surveillance system that sources data from diverse animal
+health platforms including clinical sources, slaughterhouses, surveys and the community."
+d2,Real Time Surveillance,LBR,Liberia,"Improve collaboration between the public health, animal health and environmental health sectors
+under the One Health platform at national and subnational levels."
+d2,Real Time Surveillance,LBR,Liberia,"Supervise, monitor and evaluate IDSR processes and procedures, including systematic data quality
+audits and IDSR indicator performance monitoring."
+d3,Reporting,LBR,Liberia,"Institutionalize One Health committee structures at national and subnational levels, with structured
+information-sharing between the national IHR focal point and the OIE delegate."
+d3,Reporting,LBR,Liberia,"Strengthen the reporting structure for animal health events within the Ministry of Agriculture and
+develop a surveillance database at the Ministry."
+d3,Reporting,LBR,Liberia,"Build capacity for IHR reporting within the Ministry of Health and Ministry of Agriculture, including
+training for personnel and continued training for the national IHR focal point and OIE delegate."
+d3,Reporting,LBR,Liberia,"A food safety focal point should be identified and a relationship with the national IHR focal point
+established."
+d4,Workforce Development,LBR,Liberia,"Mobilize resources for the continuing professional development and training programme in the context
+of One Health."
+d4,Workforce Development,LBR,Liberia,"Ensure that One-Health is emphasized in all training, e.g. FETP and laboratory training."
+d4,Workforce Development,LBR,Liberia,"Put in place mechanisms to retain trained animal and human health personnel such as FETP graduates
+and those that were trained during the recent EVD outbreak."
+d4,Workforce Development,LBR,Liberia,"Collaborate with training institutions to review pre-service training curricula to ensure that One Health,
+IHR (2005), IDSR and disaster management are addressed."
+d4,Workforce Development,LBR,Liberia,"Proactively enrol professionals from the animal health sector into field epidemiology and laboratory
+training programmes (FELTP) to build technical, leadership and managerial skills for national and
+subnational surveillance and health leadership (basic, intermediate and advanced FELTP courses)."
+d4,Workforce Development,LBR,Liberia,"Support exchange visits with established centres for mentoring of critical staff from human and animal
+health."
+r1,Preparedness,LBR,Liberia,"Develop a multihazard national public health emergency preparedness and response plan. The plan
+should be integrated with the POE emergency plans. Moreover, IHR-compliant air and sea plans should
+also come under the plan. In addition, cross-border collaboration should be considered during the
+development of the plan."
+r1,Preparedness,LBR,Liberia,Scale-up the creation of permanent isolation sites at all major hospitals.
+r1,Preparedness,LBR,Liberia,Strengthen the protection and safety of human resources for health.
+r1,Preparedness,LBR,Liberia,"Establish a pool of technical expertise in multihazard response, including the smooth continuation of
+routine health services (maternal and child health, EPI, outpatient services, etc.)."
+r1,Preparedness,LBR,Liberia,"Mobilize adequate resources for preparedness and response and provide adequate stockpile and
+storage capacity (including personal protective equipment, etc.)."
+r2,Emergency Response Operations,LBR,Liberia,"Training and retention of surge capacity staff in the competencies required for emergency response
+operations."
+r2,Emergency Response Operations,LBR,Liberia,Government ownership of the various EOCs so as to ensure funding and facilitate appropriate decisionmaking.
+r2,Emergency Response Operations,LBR,Liberia,Authority for the national EOC to mobilize resources required for emergency response.
+r2,Emergency Response Operations,LBR,Liberia,"Encouragement of intersectoral collaboration through inclusive simulation exercises during deactivation
+phases to test preparedness plans."
+r3,Linking Public Health and Security Authorities,LBR,Liberia,"Integrated capacity development (training, simulations, exercise, experience-sharing) on integration
+and joint working, involving relevant security authorities and those in public health."
+r3,Linking Public Health and Security Authorities,LBR,Liberia,"Development and harmonization of appropriate legal, policy instruments and operational package
+(MoU, SOPs) to ensure multisectoral health preparedness and response."
+r3,Linking Public Health and Security Authorities,LBR,Liberia,Reporting and information-sharing mechanisms including cross-border collaboration.
+r3,Linking Public Health and Security Authorities,LBR,Liberia,Collaboration with stakeholders – outside of the Government sector.
+r4,Medical Countermeasures and Personnel Deployment,LBR,Liberia,"Identify existing collaborations and any gaps and, where necessary, finalize and exercise plans,
+guidelines and relevant agreements for sending and receiving MCMs during a public health emergency."
+r4,Medical Countermeasures and Personnel Deployment,LBR,Liberia,Update the pandemic preparedness plan.
+r4,Medical Countermeasures and Personnel Deployment,LBR,Liberia,"Develop regulations for MCMs and agreements with other institutions and/or with regional/institutional
+bodies."
+r4,Medical Countermeasures and Personnel Deployment,LBR,Liberia,Sustain mobilization of emergency medical supplies and vaccines.
+r5,Risk Communication,LBR,Liberia,"Increase resource allocation to implement the risk communication plan and reach areas that are hard
+to reach."
+r5,Risk Communication,LBR,Liberia,Sustain community involvement and participation.
+r5,Risk Communication,LBR,Liberia,"Identify, train and support more staff at county and district level."
+r5,Risk Communication,LBR,Liberia,Improve internal and multisectoral stakeholder communication and engagement.
+poe,Points of Entry,LBR,Liberia,"Develop a contingency plan for the four designated POE and other priority non-designated POE as per
+Ministry of Health guidelines, including mechanisms for retaining staff and capacity at the POE."
+poe,Points of Entry,LBR,Liberia,"Develop a roadmap for the next five years to ensure that the four currently designated POE, and others
+as prioritized by the Ministry of Health, have a sustained mechanism for proper referral of ill travellers
+and integrate the POE into national surveillance/reporting systems."
+poe,Points of Entry,LBR,Liberia,Ensure that all designated POE have facilities to detect public health threats.
+ce,Chemical Emergencies,LBR,Liberia,"Develop and implement regulatory and coordinated institutional framework for the planning and
+management of chemicals, biological, radiation and nuclear public health risk and impacts."
+ce,Chemical Emergencies,LBR,Liberia,"Develop coordinated capacity, practical guidance and operating procedure for the detention, response
+and containment of the accidental and deliberate release of chemicals and radiological agents."
+ce,Chemical Emergencies,LBR,Liberia,"Formulation of a national CBRN risk assessment team comprising stakeholders from ministries and
+agencies of the Government. This should include the development of a national action plan on
+CBRN and explore consideration of chemical and radiation monitoring in the national public health
+surveillance programme."
+p1,"National legislation, Policy and Financing",KOR,Korea,"Ensure all hazards are covered under the core capacity strengthening in the National Health Plan, in accordance with IHR (2005)."
+p1,"National legislation, Policy and Financing",KOR,Korea,Consider reviewing which actions taken during public health emergencies could be implemented as policies instead of being enacted as legislation to enable rapid implementation of necessary actions during an emergency.
+p2,"IHR Coordination, Communication and Advocacy",KOR,Korea,"Advance IHR implementation for health security by enhancing the existing multisectoral and
+multidisciplinary arrangements."
+p2,"IHR Coordination, Communication and Advocacy",KOR,Korea,"Sustain the key function of the IHR NFP in event communications, public health emergency preparedness
+and response, and in IHR monitoring and evaluation."
+p2,"IHR Coordination, Communication and Advocacy",KOR,Korea,"Ensure sustainable investment in health security through contribution to regional and international
+information sharing, risk assessment and coordinated response to public health emergencies.'"
+p3,Antimicrobial Resistance,KOR,Korea,"Monitor the implementation of the National Action Plan 2016 – 2020 to achieve the high targets set
+for both human health and agriculture sectors, as indicated in the plan.
+"
+p3,Antimicrobial Resistance,KOR,Korea,"Maintain and strengthen the One Health approach needed in promoting antimicrobial stewardship,
+implementing AMR surveillance, and encouraging information sharing."
+p3,Antimicrobial Resistance,KOR,Korea,"Document antimicrobial usage in agriculture (livestock, aquaculture, crops) at the farm level to better
+design stewardship and surveillance programmes."
+p4,Zoonotic Disease,KOR,Korea,"Further strengthen the function of the Zoonotic Disease Committee for multisectoral collaboration
+with the KCDC under the MOHW, MoE, MAFRA, and APQA through regular meetings, to improve the
+ongoing information exchange, joint risk assessments, prioritization and implementation of actions for
+zoonotic diseases.
+"
+p4,Zoonotic Disease,KOR,Korea,"Reinforce surveillance and detection for suspicious zoonotic events, and develop laboratory testing
+algorithm for unknown pathogens.
+"
+p4,Zoonotic Disease,KOR,Korea,"Strengthen real-time data sharing of zoonotic events between the human and animal health sectors.
+"
+p4,Zoonotic Disease,KOR,Korea,"Continue and enhance collaboration between the field epidemiology training programme (FETP) and veterinary training to strengthen the One Health approach for zoonosis outbreak response in the ROK. Specifically, consider including veterinary staff into the national rapid response teams (RRTs) and having them join outbreak investigation activities in the ROK."
+p5,Food Safety,KOR,Korea,"Maintain and continue to advance the close collaboration and operational links between the different
+ministries under the National Food Safety Management System, including the functional mechanisms
+for detecting and responding to food-borne disease outbreaks and food safety events.
+"
+p5,Food Safety,KOR,Korea,"Consider conducting joint simulation exercises to test the existing multisectoral mechanisms to respond
+to a large-scale food safety event that may constitute a public health emergency of international
+concern (PHEIC). Elements to be considered for the simulation exercise may include rapid information
+sharing, joint risk assessment, the decision-making process for activating and coordinating a response
+to a food safety emergency, operational communication between the IHR NFP and International Food
+Safety Authorities Network (INFOSAN), and risk communication."
+p5,Food Safety,KOR,Korea,"Consider exploring a regional or global cooperation on an integrated food safety management system
+to address the ROK’s concerns on the safety of food purchased through e-commerce."
+p6,Biosafety and Biosecurity,KOR,Korea,"Finalize and publish the Korea Biosafety Standard and Guidelines with a comprehensive cross-sector
+review to ensure universal applicability in all facilities covered by the relevant biosafety and security
+regulations."
+p6,Biosafety and Biosecurity,KOR,Korea,"Conduct training of trainers for biosafety officers and relevant oversight staff, and training for facility
+managers and workers, in all registered institutions after the publication of Korea Biosafety Standard
+and Guidelines."
+p6,Biosafety and Biosecurity,KOR,Korea,"Consider conducting a review of biosafety and biosecurity regulations to identify potentially conflicting
+requirements in different regulations"
+p7,Immunization,KOR,Korea,"Consider narrowing the gap between the first and second doses of MMR vaccination (currently at the
+age of 12-15 months and 4-6 years) to prevent the accumulation of susceptible children."
+d1,National Laboratory System,KOR,Korea,"Consider evaluating the necessity for mandatory participation in EQA programmes conforming to
+international quality standards for both public and privately-operated public health, environmental
+health, veterinary and clinical microbiological laboratories, in the Republic of Korea context."
+d1,National Laboratory System,KOR,Korea,"Explore opportunities to require accreditation of laboratory diagnostic services by independent bodies
+at all levels, including at the KCDC."
+d1,National Laboratory System,KOR,Korea,"Consider increasing operational awareness between the KCDC and the Food and Drug Administration
+in relation to food and water-borne epidemics through various information exchange channels."
+d1,National Laboratory System,KOR,Korea,"Consider implementing bio-banking of selected pathogens by sending primary specimens systematically
+to the KCDC for prospective and retrospective epidemiological analyses."
+d2,Real Time Surveillance,KOR,Korea,Consider longer staff postings for EBS and risk assessment to build competency and experience.
+d2,Real Time Surveillance,KOR,Korea,Consider conducting regular reviews of the list of national notifiable infectious diseases.
+d2,Real Time Surveillance,KOR,Korea,"Consider making use of the syndromic surveillance system for additional purposes such as monitoring
+public health emergencies."
+d3,Reporting,KOR,Korea,"Consider further strengthening the role of IHR NFP to ensure effective coordination and communication
+with other sectors including agriculture, animal health, food and drug safety, points of entry (PoEs),
+public safety and security, environment, and other relevant sectors."
+d3,Reporting,KOR,Korea,"Consider incorporating IHR verification, risk assessment, notification and reporting into the national
+joint training and simulation exercises for human and animal health professionals."
+d3,Reporting,KOR,Korea,"Ensure decision-makers in both the human and animal health sectors are consulted in the risk
+assessment and decision-making process during a zoonosis event."
+d4,Workforce Development,KOR,Korea,"Create a multidisciplinary, all-hazards, One Health, national public health workforce strategy that
+includes workforce from both the government and private institutions. This workforce strategy should
+include staff recruitment, training, utilization, and retention. The ROK may also consider creating an
+electronic roster of this workforce to be later integrated into the joint utilization system being developed
+by the MoIS. Ensure expanded inclusion of veterinarians into FETP and inclusion of additional disciplines
+in RRTs within this strategy."
+d4,Workforce Development,KOR,Korea,"Reinforce and expand the FETP program, especially to increase the public health workforce at the subnational
+level."
+d4,Workforce Development,KOR,Korea,"Enhance the process for sending, and develop the process for receiving, public health RRTs and
+emergency medical teams (EMTs), both within and outside of the ROK. This should take into
+consideration the necessary legal, regulatory, and medical procedures."
+r1,Preparedness,KOR,Korea,"Establish an annual schedule to update the national risk profiles and resource requirements based on
+annual reviews of public health threats across all sectors."
+r1,Preparedness,KOR,Korea,"Clarify authorities at each level of government to carry out each organization’s roles and responsibilities
+when multiple levels of government are involved in a response."
+r1,Preparedness,KOR,Korea,"Expand the existing exercise programme to integrate all supporting sectors and partners, to integrate
+exercises between different levels of government, and to track the progress of necessary improvements."
+r1,Preparedness,KOR,Korea,"Complete the development of the national resource utilization system to support coordinated resource
+requisition, mobilization, and deployment at all levels of government and across all sectors."
+r2,Emergency Response Operations,KOR,Korea,"Expand training to include senior officials and other staff within the KCDC who will work under the IMS
+once the EOC is activated, such as incident command and other supporting roles."
+r2,Emergency Response Operations,KOR,Korea,"Review the resources required to initiate, escalate and maintain a sustainable public health EOC at all
+levels during a protracted public health emergency."
+r2,Emergency Response Operations,KOR,Korea,"Consider developing a database to capture information related to EOC management and operations
+to include information such as registers of trained staff, contact details of subject matter experts, and
+tracking of allocated resources."
+r3,Linking Public Health and Security Authorities,KOR,Korea,"Continue to strengthen the linkage between public health and security authorities and consider
+developing scenario-based response contingency plans, including multisectoral collaboration to
+develop risk communication messages."
+r4,Medical Countermeasures and Personnel Deployment,KOR,Korea,"Develop an approach with regional partners to jointly share and mobilize stockpiles of medical
+countermeasures during public health emergencies."
+r4,Medical Countermeasures and Personnel Deployment,KOR,Korea,"Develop a comprehensive manual for those being trained and considered for international deployments.
+The manual may include elements to consider prior to, during, and after returning from deployment."
+r4,Medical Countermeasures and Personnel Deployment,KOR,Korea,"Consider reviewing the current position and consider establishing a system of receiving international
+health personnel."
+r5,Risk Communication,KOR,Korea,"Enhance the functionality of a coherent risk communication system by developing and testing operational
+arrangements and guidelines for managing communication for all hazards across Ministries, at the
+national and local levels, and with other partners and stakeholders."
+r5,Risk Communication,KOR,Korea,"Integrate risk communication and community engagement into risk assessment procedures and rapid
+response operations."
+r5,Risk Communication,KOR,Korea,"Further improve timely, accurate and transparent public communication and efficient rumour
+management by enhancing implementation of information disclosure during public health emergencies."
+r5,Risk Communication,KOR,Korea,"Address the communication needs of all audiences, including developing content in other languages."
+r5,Risk Communication,KOR,Korea,"Continue to train core staff of the Office of Communication in KCDC and in other ministries to bolster
+various risk communication capacities beyond media and public communication."
+poe,Points of Entry,KOR,Korea,"Consider a paradigm shift from an emphasis on measures to stop infectious diseases at PoEs to
+explore other public health measures to limit the impact and spread of imported infectious diseases.
+Specifically, the ROK may consider the following four public health measures:
+Ensure that all hospitals have comprehensive hospital infection control measures in place and that
+medical staff are trained to ask for overseas travel history from all ill patients and their families in
+the emergency room. This is in recognition that the “point of entry” of infectious diseases is no
+longer at the border (airport or seaport), but rather “at the door” of the local hospital where the
+travellers who become ill after arrival will seek medical care.
+Ensure that travellers have access to pre-travel health information, vaccinations and necessary
+medications (e.g., malaria prophylaxis). To some extent, this is being met by current services such
+as the KCDC Call Centre (1339).
+Ensure that travellers have access to post-travel information on what to do and whom to call if
+they become ill after returning from their trip. To some extent, this is being met by current services.
+Maintain trained quarantine officials at major POEs to respond and assess ill persons on board
+reported by the captains of vessels. Ensure that there are rapid transportation systems to
+designated hospitals if hospitalization is warranted and that there is sufficient information to
+identify and locate possible contacts of ill persons."
+poe,Points of Entry,KOR,Korea,"Consider conducting cost-effectiveness studies of the current border health measures and quarantine
+system at PoEs to evaluate the extensive system developed in the ROK under the revised Quarantine
+Act. This would also provide valuable information for other nations that are contemplating creating
+similar systems of their own."
+ce,Chemical Emergencies,KOR,Korea,"Establish a national poison control center in accordance with the recommendations of the International
+Programme on Chemical Safety, building upon the existing toxicity research programmes at the NIER, the
+National Institute of Food and Drug Safety Evaluation, and the National Academy of Agricultural Science."
+ce,Chemical Emergencies,KOR,Korea,"Expand the national public health exercise programme to include exercises that test the health system’s
+readiness to execute its responsibilities in a chemical response."
+ce,Chemical Emergencies,KOR,Korea,Establish an integrated chemical management system for consumer products.
+ce,Chemical Emergencies,KOR,Korea,"Consider aggregating existing chemical monitoring activities into an integrated national chemical
+surveillance system to provide a real-time common operating picture of chemical threats and exposures
+to all relevant stakeholders."
+re,Radiation Emergencies,KOR,Korea,"Develop a regional nuclear/radiological information sharing and response strategy with neighbouring
+countries."
+re,Radiation Emergencies,KOR,Korea,"Continue to investigate and strengthen the capacities of nuclear facilities for resilience to seismic and
+other natural disaster threats."
+re,Radiation Emergencies,KOR,Korea,"Continue to strengthen community engagement and risk communications activities regarding radiation
+emergencies."
+re,Radiation Emergencies,KOR,Korea,"Expand the national qualified health physics and radiobiology workforce through the national workforce
+strategy."

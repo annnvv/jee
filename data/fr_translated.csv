@@ -1,0 +1,284 @@
+﻿ta_abbr,tech_area,iso3,country,priority
+p1,"National legislation, Policy and Financing",GIN,Guinea,"Strengthen the country's capacity in terms of legislation for the implementation of the IHR, through the establishment of a working group of lawyers from relevant ministries and partners for the elaboration or adoption of texts to popularize."
+p1,"National legislation, Policy and Financing",GIN,Guinea,Set up a strategy for a national budget line for financing the implementation of RSI.
+p1,"National legislation, Policy and Financing",GIN,Guinea,Formalize regular monthly or quarterly or ad hoc cross-border meetings (even in lull) with all stakeholders and neighboring countries.
+p2,"IHR Coordination, Communication and Advocacy",GIN,Guinea,Accelerate the formalization and validation of NOMs (Standard Operating Procedures) and existing multi-sectoral collaboration procedures for coordinating PFNRSI with other sectors.
+p2,"IHR Coordination, Communication and Advocacy",GIN,Guinea,"Mobilize and guarantee the necessary resources (including financial resources) for the proper functioning of the PFNRSI, in order to guarantee a timely sharing of information between the different sectors."
+p2,"IHR Coordination, Communication and Advocacy",GIN,Guinea,"Proceed with the signing of the draft ""one health"" decree and implement the project through the formation of a multisectoral and multidisciplinary committee meeting the requirements of the IHR"
+p2,"IHR Coordination, Communication and Advocacy",GIN,Guinea,Prepare and form the multisectoral and multidisciplinary committee on surveillance and response to public health emergencies.
+p3,Antimicrobial Resistance,GIN,Guinea,"Develop and validate an integrated multisectoral national plan for prevention, surveillance and response to antimicrobial resistance and healthcare-associated infections."
+p3,Antimicrobial Resistance,GIN,Guinea,Strengthen the laboratory diagnostic capabilities of antimicrobial resistant pathogens
+p3,Antimicrobial Resistance,GIN,Guinea,Strengthen the capacities of health actors in the fight against nosocomial infections.
+p4,Zoonotic Disease,GIN,Guinea,"Adapt regulation to better support surveillance and response to zoonoses under the ""one health"" approach."
+p4,Zoonotic Disease,GIN,Guinea,"Strengthen multisectoral coordination and collaboration of animal health, human health and wildlife actors."
+p4,Zoonotic Disease,GIN,Guinea,"Strengthen the capacity of actors in the implementation of the ""one health"" approach."
+p5,Food Safety,GIN,Guinea,Establish a mechanism to detect and respond to foodborne illness and food contamination.
+p5,Food Safety,GIN,Guinea,Organize a surveillance system for food safety.
+p6,Biosafety and Biosecurity,GIN,Guinea,"Develop and implement legislative and regulatory texts, standards and guidelines to strengthen national capacities in biosafety and biosecurity."
+p6,Biosafety and Biosecurity,GIN,Guinea,Set up joint training courses in biosafety and biosafety.
+p7,Immunization,GIN,Guinea,"Strengthen intersectoral collaboration (Ministers of Health, Livestock and Agriculture) in the field of human and animal vaccination through the pooling of interventions at all levels."
+p7,Immunization,GIN,Guinea,Strengthen the implementation of the ACD / ACE approach (reaching each district / reaching every child) for the revival of routine immunization.
+p7,Immunization,GIN,Guinea,Promote advocacy initiatives for mobilizing domestic / local resources for immunization.
+d1,National Laboratory System,GIN,Guinea,Establish a multidisciplinary technical group to reflect on the development of a national laboratory policy and strategy.
+d1,National Laboratory System,GIN,Guinea,Establish a harmonized and functional system for the secure delivery of samples from the peripheral level to the central level.
+d1,National Laboratory System,GIN,Guinea,Strengthen LNERV's capacity to detect priority zoonoses.
+d2,Real Time Surveillance,GIN,Guinea,Strengthen the multisectoral surveillance system at the community level.
+d2,Real Time Surveillance,GIN,Guinea,Strengthen the integration of hospitals and the private sector into the surveillance system.
+d2,Real Time Surveillance,GIN,Guinea,"Set up an event monitoring system with efficient signal sorting, validation and dissemination mechanisms."
+d2,Real Time Surveillance,GIN,Guinea,Strengthen the implementation and use of DHIS2 at the operational level.
+d2,Real Time Surveillance,GIN,Guinea,"Strengthen the real-time sharing of useful epidemiological information, based on a list of identified common priority zoonoses, between the human health and animal health sectors."
+d3,Reporting,GIN,Guinea,Conduct an overall assessment of potential public health emergencies within a multisectoral consultation framework.
+d3,Reporting,GIN,Guinea,Establish procedures or mechanisms for collaboration and information-sharing between different sectors to improve the timeliness of notification to WHO of any public health emergency.
+d3,Reporting,GIN,Guinea,Develop standard and integrated operating procedures for the approval and notification of a potential public health emergency based on Annex 2 of the IHR.
+d4,Workforce Development,GIN,Guinea,"Implement human resource development plans for animal health and other relevant sectors for the IHR, and update the human resources development plan for public health."
+d4,Workforce Development,GIN,Guinea,Sustain the national FETP program by including all relevant sectors.
+d4,Workforce Development,GIN,Guinea,Set up a device and career plan to keep staff in difficult areas.
+r1,Preparedness,GIN,Guinea,Establish a multi-sectoral management authority for the development of the multi-hazard plan.
+r1,Preparedness,GIN,Guinea,"Develop, validate and test the national contingency plan for preparing and responding to public health emergencies."
+r1,Preparedness,GIN,Guinea,Conduct a mapping of resources and update the mapping of public health risks.
+r2,Emergency Response Operations,GIN,Guinea,Develop a multisectoral emergency response plan.
+r2,Emergency Response Operations,GIN,Guinea,Guarantee a long-term financing mechanism for the ANSS and the COU with the state and partners to ensure in particular the training and exercise policy.
+r2,Emergency Response Operations,GIN,Guinea,"Develop the necessary procedures for the functioning of the EOC and its response capacity to emergencies of human, animal and environmental origin."
+r3,Linking Public Health and Security Authorities,GIN,Guinea,Establish a formal multisectoral collaboration framework.
+r3,Linking Public Health and Security Authorities,GIN,Guinea,Establish procedures to ensure multisectoral collaboration.
+r4,Medical Countermeasures and Personnel Deployment,GIN,Guinea,"Develop and validate a multisectoral national contingency plan for sending and receiving medical devices in the territory, including regulatory, logistical and security dimensions."
+r4,Medical Countermeasures and Personnel Deployment,GIN,Guinea,Develop a strategic plan to ensure a pool of medical facilities in the event of a public health emergency and ensure storage at the central and regional level.
+r4,Medical Countermeasures and Personnel Deployment,GIN,Guinea,"In collaboration with the EOC, develop procedures for the dispatch of health personnel in the event of a health emergency including the reception of international support staff."
+r4,Medical Countermeasures and Personnel Deployment,GIN,Guinea,Develop a partnership with regional and international networks to contribute to development and capacity-building initiatives at the regional and international levels.
+r5,Risk Communication,GIN,Guinea,Develop a national multisectoral communication plan on public health risks.
+r5,Risk Communication,GIN,Guinea,Formalize multisectoral framework for risk coordination and communication.
+r5,Risk Communication,GIN,Guinea,"Develop, validate and apply protocols and procedures on rumor management."
+poe,Points of Entry,GIN,Guinea,"Finalize the analysis of entry points in accordance with Annex 1, B.1.a of the IHR for the designation of official RSI entry points."
+poe,Points of Entry,GIN,Guinea,Develop integrated emergency response plans to respond to public health emergencies at ports of entry.
+poe,Points of Entry,GIN,Guinea,Improve health infrastructure and equipment at official entry point levels.
+ce,Chemical Emergencies,GIN,Guinea,Establish a formal multisectoral collaboration framework for chemical risk and event management.
+ce,Chemical Emergencies,GIN,Guinea,Establish a multi-sector plan for monitoring and managing chemical events.
+ce,Chemical Emergencies,GIN,Guinea,"Set up a surveillance system for chemical events, poisoning and poisoning."
+re,Radiation Emergencies,GIN,Guinea,Establish a formal multisectoral collaboration framework for radiological and nuclear risk management.
+re,Radiation Emergencies,GIN,Guinea,"Put in place regulations on the monitoring, prevention and management of events of radiological and nuclear origin."
+re,Radiation Emergencies,GIN,Guinea,Develop a national action plan for radiological and nuclear emergency management.
+p1,"National legislation, Policy and Financing",MLI,Mali,Organize an intersectoral meeting to finalize the inventory of legislation and approve the texts for the implementation of the IHR (2005).
+p1,"National legislation, Policy and Financing",MLI,Mali,Conduct an overall assessment and in-depth review of the legislative and regulatory texts of the sectors concerned by the implementation of the IHR (2005).
+p1,"National legislation, Policy and Financing",MLI,Mali,Develop the texts needed to implement the IHR (2005) in consultation with all sectors concerned and monitor their implementation.
+p1,"National legislation, Policy and Financing",MLI,Mali,Implement legislation and policies in all sectors.
+p2,"IHR Coordination, Communication and Advocacy",MLI,Mali,Appoint the members of PFNRSI by law (interministerial decree or decree).
+p2,"IHR Coordination, Communication and Advocacy",MLI,Mali,Train members of PFNRSI and other authorities on the IHR (2005) and the main functions of PFNRSI.
+p2,"IHR Coordination, Communication and Advocacy",MLI,Mali,"Jointly develop SOPs (Operating Protocols) to facilitate coordination, communication and promotion of the IHR (2005) in Mali."
+p2,"IHR Coordination, Communication and Advocacy",MLI,Mali,Establish an operational exchange platform to institutionalize the One Health approach at the different levels of the health system.
+p2,"IHR Coordination, Communication and Advocacy",MLI,Mali,Conduct regular simulation exercises to test the coordination capabilities of PFNRSI.
+p3,Antimicrobial Resistance,MLI,Mali,"Develop and implement a comprehensive national plan for the detection and reporting of priority antimicrobial resistant pathogens, covering human and animal health, agriculture, food and the environment as part of the only health ""."
+p3,Antimicrobial Resistance,MLI,Mali,Implement RAM capacity building plan and laboratory capacity.
+p3,Antimicrobial Resistance,MLI,Mali,Develop and implement a national antimicrobial stewardship plan.
+p3,Antimicrobial Resistance,MLI,Mali,Put in place organizational measures (nosocomial infection control committees) to reduce nosocomial infections at all levels.
+p3,Antimicrobial Resistance,MLI,Mali,Develop an information and awareness program on AMR in the different sectors.
+p4,Zoonotic Disease,MLI,Mali,"Finalize and validate the ""National integrated plan for the fight against zoonoses in Mali"" taking into account the identified priority zoonoses."
+p4,Zoonotic Disease,MLI,Mali,Strengthen the network of national territory in the field of animal health: expand animal health services by assigning at least two agents per veterinary post.
+p4,Zoonotic Disease,MLI,Mali,"Ensure the functionality of the Epivet-Mali network, notably by strengthening the material and financial resources."
+p4,Zoonotic Disease,MLI,Mali,Put in place an integrated consultation framework involving all stakeholders in the fight against major zoonoses.
+p5,Food Safety,MLI,Mali,"Establish a formal mechanism for coordination of food safety control activities, accompanied by a coordinated response plan."
+p5,Food Safety,MLI,Mali,"Design, validate and disseminate tools for notification and investigation (POS) of cases of foodborne illness."
+p5,Food Safety,MLI,Mali,"Within the framework of the coordination of public health laboratories, integrate the need for capacity building for food analysis: to study the opportunity of creating a dedicated laboratory within ANSSA, or to complete and organize the network of existing laboratories (especially for drug residues)."
+p5,Food Safety,MLI,Mali,Set up a fixed team of effective surveillance.
+p5,Food Safety,MLI,Mali,Conduct an assessment of the health risks associated with staple foods in Mali.
+p6,Biosafety and Biosecurity,MLI,Mali,Provide the country with appropriate legislation for biological safety and security.
+p6,Biosafety and Biosecurity,MLI,Mali,"Maintain an up-to-date registry and inventory of pathogens in structures that store or handle pathogens, toxins or other hazardous substances."
+p6,Biosafety and Biosecurity,MLI,Mali,Develop and implement a national multisectoral training and education program on biosafety and biosecurity.
+p6,Biosafety and Biosecurity,MLI,Mali,Establish a national program for external and internal biological risk assessment
+p7,Immunization,MLI,Mali,"Develop and implement a national EPI enhancement plan (fixed, advanced and mobile strategies, cold chain maintenance plan) in all health districts of the country to increase measles immunization coverage in children under 10 years of age 12 months and go from 72.9% to 95% at least."
+p7,Immunization,MLI,Mali,"Establish coordination with the animal sector in the development of strategic plans (multi-year comprehensive plan, etc.) to expand the delivery of vaccines to zoonoses."
+p7,Immunization,MLI,Mali,Develop an advocacy strategy with the state and technical and financial partners so that the cold chain is available in at least 60% of the structures.
+d1,National Laboratory System,MLI,Mali,"Strengthen the EPI at all levels (central, intermediate and peripheral) with sufficiently competent human resources."
+d1,National Laboratory System,MLI,Mali,Establish a regular supply mechanism for laboratory inputs throughout the country.
+d1,National Laboratory System,MLI,Mali,Establish a mechanism for collaboration between laboratories involved in the diagnosis of diseases with epidemic potential by integrating laboratories from other sectors.
+d1,National Laboratory System,MLI,Mali,Improve the system of transfer and transport of samples throughout the national territory as well as abroad.
+d1,National Laboratory System,MLI,Mali,Develop and implement a laboratory equipment maintenance plan and a national quality assurance program for laboratories in different sectors.
+d2,Real Time Surveillance,MLI,Mali,"Strengthen the implementation of the interoperable and interconnected notification system at the multisectoral level, respecting the One Health approach."
+d2,Real Time Surveillance,MLI,Mali,Put in place event-based monitoring at all levels including the community level.
+d2,Real Time Surveillance,MLI,Mali,Strengthen capacity in data management and analysis at all levels (intervention epidemiology training) and implement the IDSR strategic plan and disseminate the guide at all levels.
+d3,Reporting,MLI,Mali,Put in place a coordination mechanism between the RSI Focal Point and the other sectors.
+d3,Reporting,MLI,Mali,Develop regulations and multisectoral notification procedures.
+d3,Reporting,MLI,Mali,Develop and implement simulation exercise programs to improve reporting and collaboration between relevant sectors.
+d4,Workforce Development,MLI,Mali,"Develop and implement a comprehensive human resource development strategy that addresses the human, animal and environmental health sectors."
+d4,Workforce Development,MLI,Mali,"Strengthen the capacity of actors in field epidemiology (basic, intermediate and advanced capacity) at all levels."
+r1,Preparedness,MLI,Mali,"Finalize, validate and implement a multi-sector national public health emergency preparedness and response plan to ensure the core capacity required under the IHR (2005)."
+r1,Preparedness,MLI,Mali,"Complete mapping of national resources (human, logistical, financial, etc.) for IHR hazards (2005) and priority risks to develop a national resource management and distribution plan."
+r1,Preparedness,MLI,Mali,Organize regular simulation exercises to test the plans developed.
+r1,Preparedness,MLI,Mali,Strengthen the availability of inputs and medicines at the level of structures responsible for the management of health emergencies.
+r2,Emergency Response Operations,MLI,Mali,Develop and implement emergency operational procedures and plans.
+r2,Emergency Response Operations,MLI,Mali,"Develop and implement a capacity building plan for emergency responders at all levels (multisectoral, central and decentralized)."
+r2,Emergency Response Operations,MLI,Mali,Develop and implement a simulation exercise program.
+r2,Emergency Response Operations,MLI,Mali,Finalize the process of the regulatory framework for the creation of the DOU-SP allowing among other things the definition of a formal mechanism of collaboration and coordination with the services or key directions and the sectors concerned by the management of health emergencies.
+r2,Emergency Response Operations,MLI,Mali,"Develop and implement a resource mobilization plan (human, material and financial) for the benefit of the DOU-SP."
+r3,Linking Public Health and Security Authorities,MLI,Mali,Develop and implement a memorandum of understanding or other agreement (protocol) between the public health sector and the national security authorities.
+r3,Linking Public Health and Security Authorities,MLI,Mali,Establish a framework for collaboration and consultation between the public health sector and the authorities responsible for national security.
+r3,Linking Public Health and Security Authorities,MLI,Mali,Organize simulation exercises.
+r4,Medical Countermeasures and Personnel Deployment,MLI,Mali,Develop an integrated plan for sending and receiving medical devices during a public health emergency in human and animal health.
+r4,Medical Countermeasures and Personnel Deployment,MLI,Mali,Strengthen the training of the personnel assigned to the reception and the sending of the medical means.
+r4,Medical Countermeasures and Personnel Deployment,MLI,Mali,Develop and implement a multisectoral staff deployment plan during a public health emergency (including staffing).
+r5,Risk Communication,MLI,Mali,Establish a multisectoral risk communication coordination framework.
+r5,Risk Communication,MLI,Mali,Develop a national risk communication plan based on existing communication plans in the health sector and other sectors.
+r5,Risk Communication,MLI,Mali,"Develop and disseminate manuals for risk communication procedures, including a manual of rumor management procedures."
+r5,Risk Communication,MLI,Mali,Develop and implement a capacity building plan for communication stakeholders identified from multisectoral and multi-level human resources mapping.
+r5,Risk Communication,MLI,Mali,"Develop and implement a resource mobilization plan (human, material and financial) for the dissemination of messages, especially in times of health emergency."
+poe,Points of Entry,MLI,Mali,"Designate an appropriate number of entry points, taking into account resources, human travel and funding; and to establish at all these points of entry the essential multi-sectoral capacity and appropriate medical services, including diagnostic means for the examination and prompt handling of ill travelers, personnel, equipment and adequate premises."
+poe,Points of Entry,MLI,Mali,Establish a functional supervision system at entry point level.
+poe,Points of Entry,MLI,Mali,Finalize the national strategic emergency management plan and share it with all stakeholders.
+poe,Points of Entry,MLI,Mali,Develop standardized multi-sector and multi-sector Operational Protocols (SOPs) and train all stakeholders at all points of entry into the National Emergency Management Plan and its protocols.
+poe,Points of Entry,MLI,Mali,Practice the proper use of POS through regular simulation exercises with all actors and at all entry points.
+ce,Chemical Emergencies,MLI,Mali,"Harmonize the legal arsenal and put in place a manual on the monitoring, evaluation and management of chemicals and chemical-related events."
+ce,Chemical Emergencies,MLI,Mali,Inventory and strengthen the capacity of toxicological analysis laboratories.
+ce,Chemical Emergencies,MLI,Mali,Set up a National Poison Control and Toxicovigilance Center.
+ce,Chemical Emergencies,MLI,Mali,"Establish a coordination mechanism among all stakeholders in chemical safety, industry, transportation, safe product disposal and health."
+ce,Chemical Emergencies,MLI,Mali,"Develop an intersectoral action plan that includes monitoring, alerting and responding to a chemical event."
+re,Radiation Emergencies,MLI,Mali,"Organize seminars to sensitize senior medical personnel to Radiation Protection and Radiological Medical Emergencies, and then create a Radiation Protection Module as part of the Advanced Medical University curriculum."
+re,Radiation Emergencies,MLI,Mali,"Finalize Mali's national radiological emergency plan, including the responsibilities assigned to each actor in this plan."
+re,Radiation Emergencies,MLI,Mali,"Use already existing means for the evaluation of internal contamination. To this end, establish a framework agreement between the hospitals and AMARAP."
+re,Radiation Emergencies,MLI,Mali,Establish a hospital triage protocol for radiological injuries based on cross-checking of symptomatic observations and haematological examinations using the METREPOL approach.
+re,Radiation Emergencies,MLI,Mali,Set up a hotline system of available radiological expertise available 24/7.
+p1,"National legislation, Policy and Financing",CMR,Cameroon,Establish an intersectoral committee integrating the legal services of the ministerial departments concerned with the implementation of the IHR (2005) to carry out a systematic analysis of the national legislation / regulations in relation to the implementation of the IHR (2005) in order to identify the deficiencies to be corrected.
+p1,"National legislation, Policy and Financing",CMR,Cameroon,Adapt if necessary by regulatory and / or legislative means to facilitate the implementation of the IHR (2005) for the results of the review.
+p1,"National legislation, Policy and Financing",CMR,Cameroon,Advocate with the State and technical and financial partners to technically and financially support the implementation of the IHR (2005).
+p1,"National legislation, Policy and Financing",CMR,Cameroon,Advocate with the government for a sustainable source of IHR funding (2005).
+p2,"IHR Coordination, Communication and Advocacy",CMR,Cameroon,"Formalize by regulation the appointment of the National Focal Point RSI taking into account for its composition of the different domains of the RSI (2005) (health, agriculture, breeding, trade industry, security and transport)."
+p2,"IHR Coordination, Communication and Advocacy",CMR,Cameroon,Train members of the National RSI Focal Point and other authorities involved in the implementation of the IHR (2005) in the performance of their duties.
+p2,"IHR Coordination, Communication and Advocacy",CMR,Cameroon,"Develop standard operating procedures with the participation of all relevant sectors to facilitate the coordination, communication and promotion of the IHR (2005)."
+p2,"IHR Coordination, Communication and Advocacy",CMR,Cameroon,Set up a platform for exchange and communication between members of the National RSI Focal Point.
+p3,Antimicrobial Resistance,CMR,Cameroon,"Finalize, validate and disseminate the national plan for the detection and reporting of antimicrobial resistant pathogens by integrating the private sector."
+p3,Antimicrobial Resistance,CMR,Cameroon,"Develop, validate and disseminate a national plan for nosocomial infection control programs. Establish a multidisciplinary and multisectoral technical group to implement this plan using the One Health approach."
+p3,Antimicrobial Resistance,CMR,Cameroon,Strengthen the laboratories&#39; technical platforms for the detection of antimicrobial resistance.
+p4,Zoonotic Disease,CMR,Cameroon,Develop and implement national guidelines for monitoring emerging zoonoses using the One Health approach.
+p4,Zoonotic Disease,CMR,Cameroon,"Develop and disseminate procedures for collaboration and information-sharing between surveillance systems in animal, human and environmental health, including outside crisis episodes."
+p4,Zoonotic Disease,CMR,Cameroon,"Develop, validate and implement the various plans to fight against zoonoses (contingency, surveillance, eradication, management)."
+p4,Zoonotic Disease,CMR,Cameroon,"Integrate training in field epidemiology and the fight against zoonoses into training programs for human, animal and environmental health personnel."
+p4,Zoonotic Disease,CMR,Cameroon,"Conduct the inventory of domestic animals on the one hand to provide the OIE with the data required to evaluate the use of antibiotics, on the other hand to allow the appropriate allocation of human resources."
+p5,Food Safety,CMR,Cameroon,Develop and disseminate Standard Operating Procedures (SOPs) for collaboration and information sharing among stakeholders involved in food safety pending establishment of a Food Safety Agency.
+p5,Food Safety,CMR,Cameroon,Develop a multisectoral plan to detect and respond to events related to food safety.
+p5,Food Safety,CMR,Cameroon,Finalize the process of adoption of the draft framework law on food safety.
+p5,Food Safety,CMR,Cameroon,Strengthen the analytical capacity of national food quality control laboratories.
+p6,Biosafety and Biosecurity,CMR,Cameroon,Finalize and adopt the national law on safety and biosecurity.
+p6,Biosafety and Biosecurity,CMR,Cameroon,"Develop and disseminate tools for documentation, notification, investigation and response to biological accidents / incidents and encourage structures that handle or store biological agents to develop, implement and evaluate their operational plans for safety and security biological safety."
+p6,Biosafety and Biosecurity,CMR,Cameroon,Establish mechanisms for evaluating biological safety and security and procedures for officially classifying laboratories based on their biological containment capabilities.
+p6,Biosafety and Biosecurity,CMR,Cameroon,Develop and implement a national training program on biological safety and security for laboratory personnel and all those handling biological agents.
+p6,Biosafety and Biosecurity,CMR,Cameroon,Update the waste management plan by involving several sectors concerned.
+p7,Immunization,CMR,Cameroon,"Finalize, validate and implement at least 80% of the data quality improvement plan within three years."
+p7,Immunization,CMR,Cameroon,"Extend the supply of vaccines to zoonoses by systematically involving animal health authorities in the development of various vaccination plans (Comprehensive Multi-Year Plan, EPI Annual Work Plan, Maintenance Plan, Logistics Plan, etc.)."
+p7,Immunization,CMR,Cameroon,"Continue to build the capacity of the various actors (logistics skills, vaccine management, use of related tools) to prevent vaccine breaks and losses, and increase routine immunization coverage for measles in children of 0 at 12 months from 80% to 90% within three years."
+p7,Immunization,CMR,Cameroon,"Establish an advocacy strategy with the Government and technical and financial partners to equip the districts with solar energy cold chain equipment, ensure maintenance (preventive and curative), and thus achieve a vaccine availability of at least 90% at the operational level, within three years."
+d1,National Laboratory System,CMR,Cameroon,"Establish the intersectoral network of human, animal and environmental health laboratories, including food safety."
+d1,National Laboratory System,CMR,Cameroon,"Strengthen the laboratory&#39;s technical platform in terms of human resources, laboratory equipment and consumables, regular supply of reagents and diagnostic kits, but also in terms of training in equipment maintenance."
+d1,National Laboratory System,CMR,Cameroon,Set up a harmonized and secure transport / sample transfer system at all levels with standardized operating procedures.
+d1,National Laboratory System,CMR,Cameroon,Establish a national quality assurance and external quality assurance program for all laboratories in different sectors.
+d1,National Laboratory System,CMR,Cameroon,Adopt and disseminate the various documents of the national strategic plan for laboratory development.
+d2,Real Time Surveillance,CMR,Cameroon,Develop and implement standard operating procedures for integration of surveillance activities in accordance with the provisions of the SIMR while taking into account the One Health approach.
+d2,Real Time Surveillance,CMR,Cameroon,"Strengthen the capacities of the health staff in IDSR through training, refresher courses and formative supervision, after situational needs analysis."
+d2,Real Time Surveillance,CMR,Cameroon,"Adapt and implement at all levels of the health pyramid, the technical guidelines of the WHO AFRO community-based surveillance."
+d2,Real Time Surveillance,CMR,Cameroon,Develop and implement a data quality improvement plan and a monitoring and evaluation plan for the RNIS.
+d2,Real Time Surveillance,CMR,Cameroon,"Develop a platform for data sharing and surveillance information between the human, animal and environmental health sectors as part of the &quot;One Health&quot; approach."
+d3,Reporting,CMR,Cameroon,"Develop and disseminate to all stakeholders of the National RSI Focal Point, standard operating procedures for the approval and notification to WHO, OIE or FAO of events likely to constitute an Emergency of Public Health of International Scope (USSPI) as part of the One Health approach."
+d3,Reporting,CMR,Cameroon,"Strengthen the capacity of the National RSI Focal Point through training, financial and logistical support to improve its performance, including notification to WHO within 24 hours"
+d3,Reporting,CMR,Cameroon,Organize simulation exercises to test the collaboration and coordination of the actors involved in the notification of events that could constitute a USPPI.
+d4,Workforce Development,CMR,Cameroon,"Develop and implement a national human resources development plan, taking into account the evaluation of existing plans and the One Health approach, and incorporating a capitalization strategy."
+d4,Workforce Development,CMR,Cameroon,Mapping human resources according to the &quot;One Health&quot; approach and putting in place a mechanism for territorial deployment of staff.
+d4,Workforce Development,CMR,Cameroon,"Strengthen the training of surveillance actors at different levels (central, intermediate and peripheral) in field epidemiology FETP type."
+d4,Workforce Development,CMR,Cameroon,Continue and expand the retention project for specialized health personnel involved in the implementation of the IHR (2005) in areas of difficult access.
+r1,Preparedness,CMR,Cameroon,Develop a multi-sector national multi-risk plan for public health emergency preparedness and response taking into account existing plans and mapping already completed.
+r1,Preparedness,CMR,Cameroon,Finalize comprehensive mapping of all national resources to develop a management and distribution plan for the resources needed to implement the IHR (2005).
+r1,Preparedness,CMR,Cameroon,Continue the mapping risk exercises to test prepared preparedness plans.
+r1,Preparedness,CMR,Cameroon,Advocate for strengthening the budget line allocated to the preparation and management of public health emergencies.
+r2,Emergency Response Operations,CMR,Cameroon,"Finalize and disseminate the regulatory texts governing the creation, missions, operation and activation of the COUSP by specifying the methods of communication with the local and regional levels as well as the national partners (information and feedback)."
+r2,Emergency Response Operations,CMR,Cameroon,"Make the COUSP operational 24 hours a day, 7 days a week, including the allocation of significant resources in terms of personnel, logistics and financing."
+r2,Emergency Response Operations,CMR,Cameroon,Validate and implement operational plans and procedures for emergency response.
+r2,Emergency Response Operations,CMR,Cameroon,"Develop and share a strategic plan of the COUSP taking into account existing plans and the documents necessary for its operation: incident management, command, planning, financing, case management applied for IHR hazards (2005)."
+r3,Linking Public Health and Security Authorities,CMR,Cameroon,"Develop and implement a memorandum of understanding between public health and safety authorities for the management of public health emergencies, in accordance with the IHR (2005)"
+r3,Linking Public Health and Security Authorities,CMR,Cameroon,Develop and implement standard operating procedures for coordinating joint action and information sharing between public health and security authorities in emergency situations.
+r3,Linking Public Health and Security Authorities,CMR,Cameroon,"Strengthen the capacities of public health and security staff, including the establishment of a joint training program and simulation exercises."
+r4,Medical Countermeasures and Personnel Deployment,CMR,Cameroon,"Finalize, validate, simulate, disseminate and implement the national medical supply chain plan, integrating the procedures for sending and receiving medical devices, and deploying personnel for emergency response."
+r4,Medical Countermeasures and Personnel Deployment,CMR,Cameroon,Establish an information system for effective management of medical facilities throughout the supply chain.
+r4,Medical Countermeasures and Personnel Deployment,CMR,Cameroon,"Develop an international partnership to support the sending and receiving of medical facilities, and the deployment of emergency response personnel on the basis of objective criteria."
+r4,Medical Countermeasures and Personnel Deployment,CMR,Cameroon,Develop a plan for sending and receiving health personnel during a public health emergency.
+r5,Risk Communication,CMR,Cameroon,Develop and implement a national risk communication plan taking into account existing sectoral communication plans.
+r5,Risk Communication,CMR,Cameroon,Formally establish a multisectoral framework for consultation and harmonization for communication in emergencies.
+r5,Risk Communication,CMR,Cameroon,Develop and disseminate standard operating procedures for communication in emergency situations.
+r5,Risk Communication,CMR,Cameroon,"Develop, disseminate and implement a national plan for collecting and managing rumors."
+r5,Risk Communication,CMR,Cameroon,"Develop and implement a capacity building plan for all stakeholders on risk communication, taking into account the &quot;one health&quot; spirit."
+poe,Points of Entry,CMR,Cameroon,"Finalize, validate, disseminate to all stakeholders the Strategic Plan for Cross-Border Surveillance in Cameroon integrated with other public health action plans."
+poe,Points of Entry,CMR,Cameroon,Organize regular and intersectoral simulation exercises.
+poe,Points of Entry,CMR,Cameroon,"Revise and formally designate entry points in relation to the IHR (2005) and make available to all designated ports of entry the appropriate medical services, including personnel, equipment, adequate premises and diagnostic facilities for examination and taking fast charge of sick travelers."
+poe,Points of Entry,CMR,Cameroon,Test and update data collection tools (including District Health Information Software DHIS2) at ports of entry.
+poe,Points of Entry,CMR,Cameroon,Develop standard operating procedures for the inspection of means of transport and for the identification and transfer of patients to specialized medical facilities.
+ce,Chemical Emergencies,CMR,Cameroon,"Develop and implement guidelines for the monitoring, evaluation and management of chemical-related events, intoxications or post-inventory poisoning of major sources of chemical hazards (industries, refineries, warehouses), and set priorities to develop contingency plans"
+ce,Chemical Emergencies,CMR,Cameroon,Develop a chemical event management contingency plan that is part of the national plan for managing public health events.
+ce,Chemical Emergencies,CMR,Cameroon,"Establish laboratories to control the diagnosis, analysis and quality of chemicals with the necessary human and material resources."
+ce,Chemical Emergencies,CMR,Cameroon,Strengthen multisectoral coordination mechanisms for response to chemical events and chemical safety.
+ce,Chemical Emergencies,CMR,Cameroon,"Create multisectoral coordination mechanisms to implement waste regulations in health facilities, laboratories, pharmacies and others."
+re,Radiation Emergencies,CMR,Cameroon,"Finalize, validate, implement the national multisectoral radiological emergency plan."
+re,Radiation Emergencies,CMR,Cameroon,Finalize and officially designate hospitals for case management by strengthening their skills (human and material resources).
+re,Radiation Emergencies,CMR,Cameroon,Develop and implement a simulation exercise plan.
+p1,"National legislation, Policy and Financing",BEN,Benin,Set up an inter-sectoral Committee of Legal Technical Advisors (CTJ) which will review the existing national texts before it can identify the texts that need to be adapted to the IHR.
+p1,"National legislation, Policy and Financing",BEN,Benin,"Strengthen the state&#39;s ability to adapt and align with legislation, policies and administrative arrangements at the national level to enable the implementation of the IHR (2005), based on the WHO&#39;s guide on strengthening of the RSI legislation."
+p1,"National legislation, Policy and Financing",BEN,Benin,Advocate with the state and technical and financial partners for strengthening and enforcing legislation.
+p2,"IHR Coordination, Communication and Advocacy",BEN,Benin,Naming by regulatory means a PFNRSI.
+p2,"IHR Coordination, Communication and Advocacy",BEN,Benin,Develop standard operating procedures for coordination between NTFP and different sectors.
+p2,"IHR Coordination, Communication and Advocacy",BEN,Benin,Guarantee sustainable funding for the activities of PFNRSI.
+p2,"IHR Coordination, Communication and Advocacy",BEN,Benin,Establish an operational exchange platform to institutionalize the One Health concept at the different levels of the health system.
+p3,Antimicrobial Resistance,BEN,Benin,Consider animal health and the environment in the National Antimicrobial Resistant Pathogen Surveillance Plan and Infection Prevention and Control.
+p3,Antimicrobial Resistance,BEN,Benin,Develop an antimicrobial management plan.
+p3,Antimicrobial Resistance,BEN,Benin,"Strengthen the capacity of national reference laboratories (human health, animal health) for the detection of antimicrobial resistance."
+p4,Zoonotic Disease,BEN,Benin,Monitor the national plan for the fight against priority Zoonoses (DEP) and regularly update the contingency plans and control plans developed.
+p4,Zoonotic Disease,BEN,Benin,Develop a public-private partnership to meet the needs of veterinary cadres in the health system.
+p4,Zoonotic Disease,BEN,Benin,Develop and implement a diploma continuing education plan in the field of field epidemiology.
+p4,Zoonotic Disease,BEN,Benin,Establish a mechanism for exchange between veterinary health services and human health services for better management of zoonoses.
+p5,Food Safety,BEN,Benin,Design by ministerial decree a national reference laboratory and develop standard operating procedures (SOPs) and standard operating procedures (SOPs) to be applied to any suspect case of food poisoning.
+p5,Food Safety,BEN,Benin,"Under the auspices of the DNSP, identify multidisciplinary local teams (peripheral, intermediate and central) trained in the investigation of food-related disease outbreaks."
+p5,Food Safety,BEN,Benin,"Develop and implement a 10-year plan for food safety control management (laboratory, human and animal health structure, HS and SA focal points, sociologists and traditional communicators)."
+p6,Biosafety and Biosecurity,BEN,Benin,"Develop and implement a national plan for biological safety and security involving cross-sectoral synergy (human, animal, environmental) with the support and endorsement of the government as a whole (DNSP)."
+p6,Biosafety and Biosecurity,BEN,Benin,"Develop, validate and apply standard operating procedures for each class of pathogens (with an up-to-date registry and inventory) within structures that store or handle hazardous pathogens and toxins (DNSP)."
+p7,Immunization,BEN,Benin,"Provide regular quality control (DPMED, ANV-SSP and DNSP)."
+p7,Immunization,BEN,Benin,Develop advocacy with the authorities to gradually increase the financial contribution of the State in the budget of the national immunization plan in order to preserve and sustain the gains.
+p7,Immunization,BEN,Benin,Improve the synergy of action between the health sector and the animal sector.
+p7,Immunization,BEN,Benin,Expand the delivery of vaccines to zoonoses (DNSP).
+p7,Immunization,BEN,Benin,Integrate the animal sector into the next CMAP 2019-2023 plan.
+d1,National Laboratory System,BEN,Benin,Strengthen the operational capacity of laboratories in particular by equipping them with qualified and stable staff.
+d1,National Laboratory System,BEN,Benin,Create a national operational quality control committee.
+d1,National Laboratory System,BEN,Benin,Establish a national quality assurance program for central laboratories.
+d1,National Laboratory System,BEN,Benin,Exchange initially to seek the mutualization of material and human resources with human and animal health on advanced technologies.
+d2,Real Time Surveillance,BEN,Benin,Put in place a structured system for monitoring events that could threaten public health.
+d2,Real Time Surveillance,BEN,Benin,Operate the interoperable and interconnected real-time electronic notification system.
+d2,Real Time Surveillance,BEN,Benin,Ensure the financing of the internet connection for a prompt and complete transmission of surveillance data.
+d2,Real Time Surveillance,BEN,Benin,Produce and disseminate systematically newsletters and monitoring reports.
+d2,Real Time Surveillance,BEN,Benin,Strengthen the mechanism of formal exchanges between animal health and human health.
+d3,Reporting,BEN,Benin,Establish a formal mechanism for the National IHR Focal Point and the WHO and OIE Focal Point to Exchange Information (RPFN).
+d3,Reporting,BEN,Benin,"Overall, the reporting capacity remains to be strengthened by the definition of the terms of reference of its members and the establishment of a reporting mechanism and procedures for WHO, OIE and FAO."
+d3,Reporting,BEN,Benin,"Develop standard operating procedures for approval and notification for any public health emergency of potential international concern to WHO, OIE, and FAO (DNSP, DE)."
+d4,Workforce Development,BEN,Benin,Strengthen human resources by providing for the recruitment of specialists as part of the implementation of the IHR at the next recruitment.
+d4,Workforce Development,BEN,Benin,Develop integrated motivation strategies for all staff involved in the IHR (2005).
+d4,Workforce Development,BEN,Benin,Continue training of field epidemiologists by setting up the intermediate level of the FETP program.
+r1,Preparedness,BEN,Benin,Develop a multi-sector national public health emergency preparedness and response plan to ensure the core capacity required under the IHR
+r1,Preparedness,BEN,Benin,Advocate to strengthen the budget line for the preparation and management of health emergencies.
+r1,Preparedness,BEN,Benin,"Develop a plan for the management and distribution of national resources (human, material and financial resources) on the basis of the available evaluation"
+r2,Emergency Response Operations,BEN,Benin,Support the DNSP by providing financial resources to operationalize the COUS.
+r2,Emergency Response Operations,BEN,Benin,Harmonize between PFNRSI and COUS members.
+r2,Emergency Response Operations,BEN,Benin,Identify and train the staff required for the operation of the COUS.
+r2,Emergency Response Operations,BEN,Benin,"Develop the norms, procedures and legal texts to govern the operation of the COUS."
+r3,Linking Public Health and Security Authorities,BEN,Benin,Develop standard written procedures or agreements for the coordination of joint action in the event of a public health emergency.
+r3,Linking Public Health and Security Authorities,BEN,Benin,Develop a memorandum of understanding or other agreement (protocol) that must exist between the public health sector and the security authorities in the country.
+r3,Linking Public Health and Security Authorities,BEN,Benin,Put in place regulatory and legal provisions for the management of cases of emergency health or the quarantine of these cases at the country level.
+r4,Medical Countermeasures and Personnel Deployment,BEN,Benin,"Develop an integrated plan for sending and receiving medical facilities and personnel compatible with the system in place for emergency management (COUS, ORSEC plan, contingency plan) taking into account the regulatory, logistical, security and financial dimensions ."
+r4,Medical Countermeasures and Personnel Deployment,BEN,Benin,Support the implementation of the plan developed within the different sectors.
+r4,Medical Countermeasures and Personnel Deployment,BEN,Benin,Test the implementation of the plan through a practical exercise.
+r5,Risk Communication,BEN,Benin,Develop and implement an Integrated Risk Communication Plan (COUS).
+r5,Risk Communication,BEN,Benin,Create and strengthen the capacity of a risk communication unit at all levels of the health system.
+r5,Risk Communication,BEN,Benin,Formalize mechanisms and procedures for listening and managing rumors.
+poe,Points of Entry,BEN,Benin,"Finalize, test and validate standard operating procedures for entry points."
+poe,Points of Entry,BEN,Benin,Build and equip health posts at the 5 priority entry points (airport and port of Cotonou and the 3 land entry points) and ensure their operation.
+poe,Points of Entry,BEN,Benin,Provide training / retraining of the different actors at entry points on the implementation of the IHR.
+poe,Points of Entry,BEN,Benin,Strengthen intersectoral coordination for the implementation of IHR at entry points.
+poe,Points of Entry,BEN,Benin,Develop a national intervention plan for emergencies at ports of entry and develop it into specific plans for each of the designated points of entry.
+ce,Chemical Emergencies,BEN,Benin,Establish and institutionalize an inter-ministerial commission bringing together all stakeholders in the field of risk management and chemical event with a budgeted action plan.
+ce,Chemical Emergencies,BEN,Benin,Develop an action plan for Health and Environment as part of the implementation of the Libreville Declaration.
+ce,Chemical Emergencies,BEN,Benin,"Set up a system for monitoring risks and events of chemical origin (poison control center, toxicovigilance, etc.)."
+ce,Chemical Emergencies,BEN,Benin,Update the chemical profile of Benin by including the nomenclature of chemicals.
+re,Radiation Emergencies,BEN,Benin,"Support advocacy to accelerate the vote on the nuclear law (MS, WHO, IAEA)."
+re,Radiation Emergencies,BEN,Benin,Appoint an authority for radionuclear risk and event management and establish coordination mechanisms with the relevant sectors.
+re,Radiation Emergencies,BEN,Benin,Develop and implement a national action plan and functional mechanisms for the detection and response to radiological and nuclear emergencies.
+re,Radiation Emergencies,BEN,Benin,Set up a monitoring system for radionuclear events.
