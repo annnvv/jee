@@ -1,0 +1,196 @@
+﻿country,iso,WHO_REGION,WHO_REGION_CODE,pop2016,pop2016_string,economy,incomegroup
+Afghanistan,AFG,Eastern Mediterranean,EMR,34656032,34656032,Afghanistan,Low income
+Angola,AGO,Africa,AFR,28813464,28813464,Angola,Lower middle income
+Albania,ALB,Europe,EUR,2876101,2876101,Albania,Upper middle income
+Andorra,AND,Europe,EUR,77281,77281,Andorra,High income
+United Arab Emirates,ARE,Eastern Mediterranean,EMR,9269612,9269612,United Arab Emirates,High income
+Argentina,ARG,Americas,AMR,43847432,43847432,Argentina,Upper middle income
+Armenia,ARM,Europe,EUR,2924816,2924816,Armenia,Lower middle income
+Antigua and Barbuda,ATG,Americas,AMR,100963,100963,Antigua and Barbuda,High income
+Australia,AUS,Western Pacific,WPR,24127160,24127160,Australia,High income
+Austria,AUT,Europe,EUR,8747358,8747358,Austria,High income
+Azerbaijan,AZE,Europe,EUR,9762274,9762274,Azerbaijan,Upper middle income
+Burundi,BDI,Africa,AFR,10524117,10524117,Burundi,Low income
+Belgium,BEL,Europe,EUR,11348159,11348159,Belgium,High income
+Benin,BEN,Africa,AFR,10872298,10872298,Benin,Low income
+Burkina Faso,BFA,Africa,AFR,18646432,18646432,Burkina Faso,Low income
+Bangladesh,BGD,South-East Asia,SEAR,162951552,162951552,Bangladesh,Lower middle income
+Bulgaria,BGR,Europe,EUR,7127822,7127822,Bulgaria,Upper middle income
+Bahrain,BHR,Eastern Mediterranean,EMR,1425171,1425171,Bahrain,High income
+Bahamas,BHS,Americas,AMR,391232,391232,"Bahamas, The",High income
+Bosnia and Herzegovina,BIH,Europe,EUR,3516816,3516816,Bosnia and Herzegovina,Upper middle income
+Belarus,BLR,Europe,EUR,9507120,9507120,Belarus,Upper middle income
+Belize,BLZ,Americas,AMR,366954,366954,Belize,Upper middle income
+Bolivia (Plurinational State of),BOL,Americas,AMR,10887882,10887882,Bolivia,Lower middle income
+Brazil,BRA,Americas,AMR,207652864,207652864,Brazil,Upper middle income
+Barbados,BRB,Americas,AMR,284996,284996,Barbados,High income
+Brunei Darussalam,BRN,Western Pacific,WPR,423196,423196,Brunei Darussalam,High income
+Bhutan,BTN,South-East Asia,SEAR,797765,797765,Bhutan,Lower middle income
+Botswana,BWA,Africa,AFR,2250260,2250260,Botswana,Upper middle income
+Central African Republic,CAF,Africa,AFR,4594621,4594621,Central African Republic,Low income
+Canada,CAN,Americas,AMR,36286424,36286424,Canada,High income
+Switzerland,CHE,Europe,EUR,8372098,8372098,Switzerland,High income
+Chile,CHL,Americas,AMR,17909754,17909754,Chile,High income
+China,CHN,Western Pacific,WPR,1378664960,1378664960,China,Upper middle income
+Côte d'Ivoire,CIV,Africa,AFR,23695920,23695920,Côte d'Ivoire,Lower middle income
+Cameroon,CMR,Africa,AFR,23439188,23439188,Cameroon,Lower middle income
+Democratic Republic of the Congo,COD,Africa,AFR,78736152,78736152,"Congo, Dem. Rep.",Low income
+Congo,COG,Africa,AFR,5125821,5125821,"Congo, Rep.",Lower middle income
+Cook Islands,COK,Western Pacific,WPR,,,,
+Colombia,COL,Americas,AMR,48653420,48653420,Colombia,Upper middle income
+Comoros,COM,Africa,AFR,795601,795601,Comoros,Low income
+Cabo Verde,CPV,Africa,AFR,539560,539560,Cabo Verde,Lower middle income
+Costa Rica,CRI,Americas,AMR,4857274,4857274,Costa Rica,Upper middle income
+Cuba,CUB,Americas,AMR,11475982,11475982,Cuba,Upper middle income
+Cyprus,CYP,Europe,EUR,1170125,1170125,Cyprus,High income
+Czechia,CZE,Europe,EUR,10561633,10561633,Czech Republic,High income
+Germany,DEU,Europe,EUR,82667688,82667688,Germany,High income
+Djibouti,DJI,Eastern Mediterranean,EMR,942333,942333,Djibouti,Lower middle income
+Dominica,DMA,Americas,AMR,73543,73543,Dominica,Upper middle income
+Denmark,DNK,Europe,EUR,5731118,5731118,Denmark,High income
+Dominican Republic,DOM,Americas,AMR,10648791,10648791,Dominican Republic,Upper middle income
+Algeria,DZA,Africa,AFR,40606052,40606052,Algeria,Upper middle income
+Ecuador,ECU,Americas,AMR,16385068,16385068,Ecuador,Upper middle income
+Egypt,EGY,Eastern Mediterranean,EMR,95688680,95688680,"Egypt, Arab Rep.",Lower middle income
+Eritrea,ERI,Africa,AFR,,.,Eritrea,Low income
+Spain,ESP,Europe,EUR,46443960,46443960,Spain,High income
+Estonia,EST,Europe,EUR,1316481,1316481,Estonia,High income
+Ethiopia,ETH,Africa,AFR,102403200,102403200,Ethiopia,Low income
+Finland,FIN,Europe,EUR,5495096,5495096,Finland,High income
+Fiji,FJI,Western Pacific,WPR,898760,898760,Fiji,Upper middle income
+France,FRA,Europe,EUR,66896108,66896108,France,High income
+Micronesia (Federated States of),FSM,Western Pacific,WPR,104937,104937,"Micronesia, Fed. Sts.",Lower middle income
+Gabon,GAB,Africa,AFR,1979786,1979786,Gabon,Upper middle income
+United Kingdom of Great Britain and Northern Ireland,GBR,Europe,EUR,65637240,65637240,United Kingdom,High income
+Georgia,GEO,Europe,EUR,3719300,3719300,Georgia,Lower middle income
+Ghana,GHA,Africa,AFR,28206728,28206728,Ghana,Lower middle income
+Guinea,GIN,Africa,AFR,12395924,12395924,Guinea,Low income
+Gambia,GMB,Africa,AFR,2038501,2038501,"Gambia, The",Low income
+Guinea-Bissau,GNB,Africa,AFR,1815698,1815698,Guinea-Bissau,Low income
+Equatorial Guinea,GNQ,Africa,AFR,1221490,1221490,Equatorial Guinea,Upper middle income
+Greece,GRC,Europe,EUR,10746740,10746740,Greece,High income
+Grenada,GRD,Americas,AMR,107317,107317,Grenada,Upper middle income
+Guatemala,GTM,Americas,AMR,16582469,16582469,Guatemala,Lower middle income
+Guyana,GUY,Americas,AMR,773303,773303,Guyana,Upper middle income
+Honduras,HND,Americas,AMR,9112867,9112867,Honduras,Lower middle income
+Croatia,HRV,Europe,EUR,4170600,4170600,Croatia,Upper middle income
+Haiti,HTI,Americas,AMR,10847334,10847334,Haiti,Low income
+Hungary,HUN,Europe,EUR,9817958,9817958,Hungary,High income
+Indonesia,IDN,South-East Asia,SEAR,261115456,261115456,Indonesia,Lower middle income
+India,IND,South-East Asia,SEAR,1324171392,1324171392,India,Lower middle income
+Ireland,IRL,Europe,EUR,4773095,4773095,Ireland,High income
+Iran (Islamic Republic of),IRN,Eastern Mediterranean,EMR,80277424,80277424,"Iran, Islamic Rep.",Upper middle income
+Iraq,IRQ,Eastern Mediterranean,EMR,37202572,37202572,Iraq,Upper middle income
+Iceland,ISL,Europe,EUR,334252,334252,Iceland,High income
+Israel,ISR,Europe,EUR,8547100,8547100,Israel,High income
+Italy,ITA,Europe,EUR,60600592,60600592,Italy,High income
+Jamaica,JAM,Americas,AMR,2881355,2881355,Jamaica,Upper middle income
+Jordan,JOR,Eastern Mediterranean,EMR,9455802,9455802,Jordan,Lower middle income
+Japan,JPN,Western Pacific,WPR,126994512,126994512,Japan,High income
+Kazakhstan,KAZ,Europe,EUR,17797032,17797032,Kazakhstan,Upper middle income
+Kenya,KEN,Africa,AFR,48461568,48461568,Kenya,Lower middle income
+Kyrgyzstan,KGZ,Europe,EUR,6082700,6082700,Kyrgyz Republic,Lower middle income
+Cambodia,KHM,Western Pacific,WPR,15762370,15762370,Cambodia,Lower middle income
+Kiribati,KIR,Western Pacific,WPR,114395,114395,Kiribati,Lower middle income
+Saint Kitts and Nevis,KNA,Americas,AMR,54821,54821,St. Kitts and Nevis,High income
+Republic of Korea,KOR,Western Pacific,WPR,51245708,51245708,"Korea, Rep.",High income
+Kuwait,KWT,Eastern Mediterranean,EMR,4052584,4052584,Kuwait,High income
+Lao People's Democratic Republic,LAO,Western Pacific,WPR,6758353,6758353,Lao PDR,Lower middle income
+Lebanon,LBN,Eastern Mediterranean,EMR,6006668,6006668,Lebanon,Upper middle income
+Liberia,LBR,Africa,AFR,4613823,4613823,Liberia,Low income
+Libya,LBY,Eastern Mediterranean,EMR,6293253,6293253,Libya,Upper middle income
+Saint Lucia,LCA,Americas,AMR,178015,178015,St. Lucia,Upper middle income
+Liechtenstein,LIE,,,37666,37666,Liechtenstein,High income
+Sri Lanka,LKA,South-East Asia,SEAR,21203000,21203000,Sri Lanka,Lower middle income
+Lesotho,LSO,Africa,AFR,2203821,2203821,Lesotho,Lower middle income
+Lithuania,LTU,Europe,EUR,2872298,2872298,Lithuania,High income
+Luxembourg,LUX,Europe,EUR,582972,582972,Luxembourg,High income
+Latvia,LVA,Europe,EUR,1960424,1960424,Latvia,High income
+Morocco,MAR,Eastern Mediterranean,EMR,35276784,35276784,Morocco,Lower middle income
+Monaco,MCO,Europe,EUR,38499,38499,Monaco,High income
+Republic of Moldova,MDA,Europe,EUR,3552000,3552000,Moldova,Lower middle income
+Madagascar,MDG,Africa,AFR,24894552,24894552,Madagascar,Low income
+Maldives,MDV,South-East Asia,SEAR,417492,417492,Maldives,Upper middle income
+Mexico,MEX,Americas,AMR,127540424,127540424,Mexico,Upper middle income
+Marshall Islands,MHL,Western Pacific,WPR,53066,53066,Marshall Islands,Upper middle income
+The former Yugoslav republic of Macedonia,MKD,Europe,EUR,2081206,2081206,"Macedonia, FYR",Upper middle income
+Mali,MLI,Africa,AFR,17994836,17994836,Mali,Low income
+Malta,MLT,Europe,EUR,436947,436947,Malta,High income
+Myanmar,MMR,South-East Asia,SEAR,52885224,52885224,Myanmar,Lower middle income
+Montenegro,MNE,Europe,EUR,622781,622781,Montenegro,Upper middle income
+Mongolia,MNG,Western Pacific,WPR,3027398,3027398,Mongolia,Lower middle income
+Mozambique,MOZ,Africa,AFR,28829476,28829476,Mozambique,Low income
+Mauritania,MRT,Africa,AFR,4301018,4301018,Mauritania,Lower middle income
+Mauritius,MUS,Africa,AFR,1263473,1263473,Mauritius,Upper middle income
+Malawi,MWI,Africa,AFR,18091576,18091576,Malawi,Low income
+Malaysia,MYS,Western Pacific,WPR,31187264,31187264,Malaysia,Upper middle income
+Namibia,NAM,Africa,AFR,2479713,2479713,Namibia,Upper middle income
+Niger,NER,Africa,AFR,20672988,20672988,Niger,Low income
+Nigeria,NGA,Africa,AFR,185989632,185989632,Nigeria,Lower middle income
+Nicaragua,NIC,Americas,AMR,6149928,6149928,Nicaragua,Lower middle income
+Niue,NIU,Western Pacific,WPR,,,,
+Netherlands,NLD,Europe,EUR,17018408,17018408,Netherlands,High income
+Norway,NOR,Europe,EUR,5232929,5232929,Norway,High income
+Nepal,NPL,South-East Asia,SEAR,28982772,28982772,Nepal,Low income
+Nauru,NRU,Western Pacific,WPR,13049,13049,Nauru,Upper middle income
+New Zealand,NZL,Western Pacific,WPR,4692700,4692700,New Zealand,High income
+Oman,OMN,Eastern Mediterranean,EMR,4424762,4424762,Oman,High income
+Pakistan,PAK,Eastern Mediterranean,EMR,193203472,193203472,Pakistan,Lower middle income
+Panama,PAN,Americas,AMR,4034119,4034119,Panama,Upper middle income
+Peru,PER,Americas,AMR,31773840,31773840,Peru,Upper middle income
+Philippines,PHL,Western Pacific,WPR,103320224,103320224,Philippines,Lower middle income
+Palau,PLW,Western Pacific,WPR,21503,21503,Palau,High income
+Papua New Guinea,PNG,Western Pacific,WPR,8084991,8084991,Papua New Guinea,Lower middle income
+Poland,POL,Europe,EUR,37948016,37948016,Poland,High income
+Democratic People's Republic of Korea,PRK,South-East Asia,SEAR,25368620,25368620,"Korea, Dem. People's Rep.",Low income
+Portugal,PRT,Europe,EUR,10324611,10324611,Portugal,High income
+Paraguay,PRY,Americas,AMR,6725308,6725308,Paraguay,Upper middle income
+Qatar,QAT,Eastern Mediterranean,EMR,2569804,2569804,Qatar,High income
+Romania,ROU,Europe,EUR,19705300,19705300,Romania,Upper middle income
+Russian Federation,RUS,Europe,EUR,144342400,144342400,Russian Federation,Upper middle income
+Rwanda,RWA,Africa,AFR,11917508,11917508,Rwanda,Low income
+Saudi Arabia,SAU,Eastern Mediterranean,EMR,32275688,32275688,Saudi Arabia,High income
+Sudan,SDN,Eastern Mediterranean,EMR,39578828,39578828,Sudan,Lower middle income
+Senegal,SEN,Africa,AFR,15411614,15411614,Senegal,Low income
+Singapore,SGP,Western Pacific,WPR,5607283,5607283,Singapore,High income
+Solomon Islands,SLB,Western Pacific,WPR,599419,599419,Solomon Islands,Lower middle income
+Sierra Leone,SLE,Africa,AFR,7396190,7396190,Sierra Leone,Low income
+El Salvador,SLV,Americas,AMR,6344722,6344722,El Salvador,Lower middle income
+San Marino,SMR,Europe,EUR,33203,33203,San Marino,High income
+Somalia,SOM,Eastern Mediterranean,EMR,14317996,14317996,Somalia,Low income
+Serbia,SRB,Europe,EUR,7057412,7057412,Serbia,Upper middle income
+South Sudan,SSD,Africa,AFR,12230730,12230730,South Sudan,Low income
+Sao Tome and Principe,STP,Africa,AFR,199910,199910,São Tomé and Principe,Lower middle income
+Suriname,SUR,Americas,AMR,558368,558368,Suriname,Upper middle income
+Slovakia,SVK,Europe,EUR,5428704,5428704,Slovak Republic,High income
+Slovenia,SVN,Europe,EUR,2064845,2064845,Slovenia,High income
+Sweden,SWE,Europe,EUR,9903122,9903122,Sweden,High income
+Swaziland,SWZ,Africa,AFR,1343098,1343098,Swaziland,Lower middle income
+Seychelles,SYC,Africa,AFR,94677,94677,Seychelles,High income
+Syrian Arab Republic,SYR,Eastern Mediterranean,EMR,18430452,18430452,Syrian Arab Republic,Lower middle income
+Chad,TCD,Africa,AFR,14452543,14452543,Chad,Low income
+Togo,TGO,Africa,AFR,7606374,7606374,Togo,Low income
+Thailand,THA,South-East Asia,SEAR,68863512,68863512,Thailand,Upper middle income
+Tajikistan,TJK,Europe,EUR,8734951,8734951,Tajikistan,Lower middle income
+Turkmenistan,TKM,Europe,EUR,5662544,5662544,Turkmenistan,Upper middle income
+Timor-Leste,TLS,South-East Asia,SEAR,1268671,1268671,Timor-Leste,Lower middle income
+Tonga,TON,Western Pacific,WPR,107122,107122,Tonga,Upper middle income
+Trinidad and Tobago,TTO,Americas,AMR,1364962,1364962,Trinidad and Tobago,High income
+Tunisia,TUN,Eastern Mediterranean,EMR,11403248,11403248,Tunisia,Lower middle income
+Turkey,TUR,Europe,EUR,79512424,79512424,Turkey,Upper middle income
+Tuvalu,TUV,Western Pacific,WPR,11097,11097,Tuvalu,Upper middle income
+United Republic of Tanzania,TZA,Africa,AFR,55572200,55572200,Tanzania,Low income
+Uganda,UGA,Africa,AFR,41487964,41487964,Uganda,Low income
+Ukraine,UKR,Europe,EUR,45004644,45004644,Ukraine,Lower middle income
+Uruguay,URY,Americas,AMR,3444006,3444006,Uruguay,High income
+United States of America,USA,Americas,AMR,323127520,323127520,United States,High income
+Uzbekistan,UZB,Europe,EUR,31848200,31848200,Uzbekistan,Lower middle income
+Saint Vincent and the Grenadines,VCT,Americas,AMR,109643,109643,St. Vincent and the Grenadines,Upper middle income
+Venezuela (Bolivarian Republic of),VEN,Americas,AMR,31568180,31568180,"Venezuela, RB",Upper middle income
+Viet Nam,VNM,Western Pacific,WPR,92701104,92701104,Vietnam,Lower middle income
+Vanuatu,VUT,Western Pacific,WPR,270402,270402,Vanuatu,Lower middle income
+Samoa,WSM,Western Pacific,WPR,195125,195125,Samoa,Upper middle income
+Yemen,YEM,Eastern Mediterranean,EMR,27584212,27584212,"Yemen, Rep.",Lower middle income
+South Africa,ZAF,Africa,AFR,55908864,55908864,South Africa,Upper middle income
+Zambia,ZMB,Africa,AFR,16591390,16591390,Zambia,Lower middle income
+Zimbabwe,ZWE,Africa,AFR,16150362,16150362,Zimbabwe,Low income
